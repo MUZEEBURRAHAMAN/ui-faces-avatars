@@ -3,7 +3,7 @@
     "id": "company-avatars",
     "name": "Company Avatars",
     "version": "1.0.0",
-    "count": 42,
+    "count": 100,
     "resolution": "4096x4096",
     "formats": [
       "png",
@@ -740,6 +740,992 @@
         "4k": "4k/company-avatars-042.png",
         "preview": "preview/company-avatars-042.jpg",
         "thumbnail": "thumbnails/company-avatars-042.webp"
+      }
+    },
+    {
+      "id": "company-043",
+      "filename": "company-avatars-043",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-043.png",
+        "preview": "preview/company-avatars-043.jpg",
+        "thumbnail": "thumbnails/company-avatars-043.webp"
+      }
+    },
+    {
+      "id": "company-044",
+      "filename": "company-avatars-044",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-044.png",
+        "preview": "preview/company-avatars-044.jpg",
+        "thumbnail": "thumbnails/company-avatars-044.webp"
+      }
+    },
+    {
+      "id": "company-045",
+      "filename": "company-avatars-045",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-045.png",
+        "preview": "preview/company-avatars-045.jpg",
+        "thumbnail": "thumbnails/company-avatars-045.webp"
+      }
+    },
+    {
+      "id": "company-046",
+      "filename": "company-avatars-046",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-046.png",
+        "preview": "preview/company-avatars-046.jpg",
+        "thumbnail": "thumbnails/company-avatars-046.webp"
+      }
+    },
+    {
+      "id": "company-047",
+      "filename": "company-avatars-047",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f88808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-047.png",
+        "preview": "preview/company-avatars-047.jpg",
+        "thumbnail": "thumbnails/company-avatars-047.webp"
+      }
+    },
+    {
+      "id": "company-048",
+      "filename": "company-avatars-048",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-048.png",
+        "preview": "preview/company-avatars-048.jpg",
+        "thumbnail": "thumbnails/company-avatars-048.webp"
+      }
+    },
+    {
+      "id": "company-049",
+      "filename": "company-avatars-049",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-049.png",
+        "preview": "preview/company-avatars-049.jpg",
+        "thumbnail": "thumbnails/company-avatars-049.webp"
+      }
+    },
+    {
+      "id": "company-050",
+      "filename": "company-avatars-050",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-050.png",
+        "preview": "preview/company-avatars-050.jpg",
+        "thumbnail": "thumbnails/company-avatars-050.webp"
+      }
+    },
+    {
+      "id": "company-051",
+      "filename": "company-avatars-051",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#3848a8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-051.png",
+        "preview": "preview/company-avatars-051.jpg",
+        "thumbnail": "thumbnails/company-avatars-051.webp"
+      }
+    },
+    {
+      "id": "company-052",
+      "filename": "company-avatars-052",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-052.png",
+        "preview": "preview/company-avatars-052.jpg",
+        "thumbnail": "thumbnails/company-avatars-052.webp"
+      }
+    },
+    {
+      "id": "company-053",
+      "filename": "company-avatars-053",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#088878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-053.png",
+        "preview": "preview/company-avatars-053.jpg",
+        "thumbnail": "thumbnails/company-avatars-053.webp"
+      }
+    },
+    {
+      "id": "company-054",
+      "filename": "company-avatars-054",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-054.png",
+        "preview": "preview/company-avatars-054.jpg",
+        "thumbnail": "thumbnails/company-avatars-054.webp"
+      }
+    },
+    {
+      "id": "company-055",
+      "filename": "company-avatars-055",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#3848a8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-055.png",
+        "preview": "preview/company-avatars-055.jpg",
+        "thumbnail": "thumbnails/company-avatars-055.webp"
+      }
+    },
+    {
+      "id": "company-056",
+      "filename": "company-avatars-056",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-056.png",
+        "preview": "preview/company-avatars-056.jpg",
+        "thumbnail": "thumbnails/company-avatars-056.webp"
+      }
+    },
+    {
+      "id": "company-057",
+      "filename": "company-avatars-057",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#489848"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-057.png",
+        "preview": "preview/company-avatars-057.jpg",
+        "thumbnail": "thumbnails/company-avatars-057.webp"
+      }
+    },
+    {
+      "id": "company-058",
+      "filename": "company-avatars-058",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-058.png",
+        "preview": "preview/company-avatars-058.jpg",
+        "thumbnail": "thumbnails/company-avatars-058.webp"
+      }
+    },
+    {
+      "id": "company-059",
+      "filename": "company-avatars-059",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#e83838"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-059.png",
+        "preview": "preview/company-avatars-059.jpg",
+        "thumbnail": "thumbnails/company-avatars-059.webp"
+      }
+    },
+    {
+      "id": "company-060",
+      "filename": "company-avatars-060",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-060.png",
+        "preview": "preview/company-avatars-060.jpg",
+        "thumbnail": "thumbnails/company-avatars-060.webp"
+      }
+    },
+    {
+      "id": "company-061",
+      "filename": "company-avatars-061",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-061.png",
+        "preview": "preview/company-avatars-061.jpg",
+        "thumbnail": "thumbnails/company-avatars-061.webp"
+      }
+    },
+    {
+      "id": "company-062",
+      "filename": "company-avatars-062",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-062.png",
+        "preview": "preview/company-avatars-062.jpg",
+        "thumbnail": "thumbnails/company-avatars-062.webp"
+      }
+    },
+    {
+      "id": "company-063",
+      "filename": "company-avatars-063",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#8828a8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-063.png",
+        "preview": "preview/company-avatars-063.jpg",
+        "thumbnail": "thumbnails/company-avatars-063.webp"
+      }
+    },
+    {
+      "id": "company-064",
+      "filename": "company-avatars-064",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-064.png",
+        "preview": "preview/company-avatars-064.jpg",
+        "thumbnail": "thumbnails/company-avatars-064.webp"
+      }
+    },
+    {
+      "id": "company-065",
+      "filename": "company-avatars-065",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-065.png",
+        "preview": "preview/company-avatars-065.jpg",
+        "thumbnail": "thumbnails/company-avatars-065.webp"
+      }
+    },
+    {
+      "id": "company-066",
+      "filename": "company-avatars-066",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-066.png",
+        "preview": "preview/company-avatars-066.jpg",
+        "thumbnail": "thumbnails/company-avatars-066.webp"
+      }
+    },
+    {
+      "id": "company-067",
+      "filename": "company-avatars-067",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8d838"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-067.png",
+        "preview": "preview/company-avatars-067.jpg",
+        "thumbnail": "thumbnails/company-avatars-067.webp"
+      }
+    },
+    {
+      "id": "company-068",
+      "filename": "company-avatars-068",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-068.png",
+        "preview": "preview/company-avatars-068.jpg",
+        "thumbnail": "thumbnails/company-avatars-068.webp"
+      }
+    },
+    {
+      "id": "company-069",
+      "filename": "company-avatars-069",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#586878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-069.png",
+        "preview": "preview/company-avatars-069.jpg",
+        "thumbnail": "thumbnails/company-avatars-069.webp"
+      }
+    },
+    {
+      "id": "company-070",
+      "filename": "company-avatars-070",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-070.png",
+        "preview": "preview/company-avatars-070.jpg",
+        "thumbnail": "thumbnails/company-avatars-070.webp"
+      }
+    },
+    {
+      "id": "company-071",
+      "filename": "company-avatars-071",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#787878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-071.png",
+        "preview": "preview/company-avatars-071.jpg",
+        "thumbnail": "thumbnails/company-avatars-071.webp"
+      }
+    },
+    {
+      "id": "company-072",
+      "filename": "company-avatars-072",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-072.png",
+        "preview": "preview/company-avatars-072.jpg",
+        "thumbnail": "thumbnails/company-avatars-072.webp"
+      }
+    },
+    {
+      "id": "company-073",
+      "filename": "company-avatars-073",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-073.png",
+        "preview": "preview/company-avatars-073.jpg",
+        "thumbnail": "thumbnails/company-avatars-073.webp"
+      }
+    },
+    {
+      "id": "company-074",
+      "filename": "company-avatars-074",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-074.png",
+        "preview": "preview/company-avatars-074.jpg",
+        "thumbnail": "thumbnails/company-avatars-074.webp"
+      }
+    },
+    {
+      "id": "company-075",
+      "filename": "company-avatars-075",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-075.png",
+        "preview": "preview/company-avatars-075.jpg",
+        "thumbnail": "thumbnails/company-avatars-075.webp"
+      }
+    },
+    {
+      "id": "company-076",
+      "filename": "company-avatars-076",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-076.png",
+        "preview": "preview/company-avatars-076.jpg",
+        "thumbnail": "thumbnails/company-avatars-076.webp"
+      }
+    },
+    {
+      "id": "company-077",
+      "filename": "company-avatars-077",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#586878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-077.png",
+        "preview": "preview/company-avatars-077.jpg",
+        "thumbnail": "thumbnails/company-avatars-077.webp"
+      }
+    },
+    {
+      "id": "company-078",
+      "filename": "company-avatars-078",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-078.png",
+        "preview": "preview/company-avatars-078.jpg",
+        "thumbnail": "thumbnails/company-avatars-078.webp"
+      }
+    },
+    {
+      "id": "company-079",
+      "filename": "company-avatars-079",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#1888e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-079.png",
+        "preview": "preview/company-avatars-079.jpg",
+        "thumbnail": "thumbnails/company-avatars-079.webp"
+      }
+    },
+    {
+      "id": "company-080",
+      "filename": "company-avatars-080",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-080.png",
+        "preview": "preview/company-avatars-080.jpg",
+        "thumbnail": "thumbnails/company-avatars-080.webp"
+      }
+    },
+    {
+      "id": "company-081",
+      "filename": "company-avatars-081",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#586878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-081.png",
+        "preview": "preview/company-avatars-081.jpg",
+        "thumbnail": "thumbnails/company-avatars-081.webp"
+      }
+    },
+    {
+      "id": "company-082",
+      "filename": "company-avatars-082",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-082.png",
+        "preview": "preview/company-avatars-082.jpg",
+        "thumbnail": "thumbnails/company-avatars-082.webp"
+      }
+    },
+    {
+      "id": "company-083",
+      "filename": "company-avatars-083",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#5838b8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-083.png",
+        "preview": "preview/company-avatars-083.jpg",
+        "thumbnail": "thumbnails/company-avatars-083.webp"
+      }
+    },
+    {
+      "id": "company-084",
+      "filename": "company-avatars-084",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-084.png",
+        "preview": "preview/company-avatars-084.jpg",
+        "thumbnail": "thumbnails/company-avatars-084.webp"
+      }
+    },
+    {
+      "id": "company-085",
+      "filename": "company-avatars-085",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#08a8c8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-085.png",
+        "preview": "preview/company-avatars-085.jpg",
+        "thumbnail": "thumbnails/company-avatars-085.webp"
+      }
+    },
+    {
+      "id": "company-086",
+      "filename": "company-avatars-086",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-086.png",
+        "preview": "preview/company-avatars-086.jpg",
+        "thumbnail": "thumbnails/company-avatars-086.webp"
+      }
+    },
+    {
+      "id": "company-087",
+      "filename": "company-avatars-087",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#5838b8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-087.png",
+        "preview": "preview/company-avatars-087.jpg",
+        "thumbnail": "thumbnails/company-avatars-087.webp"
+      }
+    },
+    {
+      "id": "company-088",
+      "filename": "company-avatars-088",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-088.png",
+        "preview": "preview/company-avatars-088.jpg",
+        "thumbnail": "thumbnails/company-avatars-088.webp"
+      }
+    },
+    {
+      "id": "company-089",
+      "filename": "company-avatars-089",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#3848a8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-089.png",
+        "preview": "preview/company-avatars-089.jpg",
+        "thumbnail": "thumbnails/company-avatars-089.webp"
+      }
+    },
+    {
+      "id": "company-090",
+      "filename": "company-avatars-090",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-090.png",
+        "preview": "preview/company-avatars-090.jpg",
+        "thumbnail": "thumbnails/company-avatars-090.webp"
+      }
+    },
+    {
+      "id": "company-091",
+      "filename": "company-avatars-091",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#088878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-091.png",
+        "preview": "preview/company-avatars-091.jpg",
+        "thumbnail": "thumbnails/company-avatars-091.webp"
+      }
+    },
+    {
+      "id": "company-092",
+      "filename": "company-avatars-092",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-092.png",
+        "preview": "preview/company-avatars-092.jpg",
+        "thumbnail": "thumbnails/company-avatars-092.webp"
+      }
+    },
+    {
+      "id": "company-093",
+      "filename": "company-avatars-093",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#586878"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-093.png",
+        "preview": "preview/company-avatars-093.jpg",
+        "thumbnail": "thumbnails/company-avatars-093.webp"
+      }
+    },
+    {
+      "id": "company-094",
+      "filename": "company-avatars-094",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-094.png",
+        "preview": "preview/company-avatars-094.jpg",
+        "thumbnail": "thumbnails/company-avatars-094.webp"
+      }
+    },
+    {
+      "id": "company-095",
+      "filename": "company-avatars-095",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8b808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-095.png",
+        "preview": "preview/company-avatars-095.jpg",
+        "thumbnail": "thumbnails/company-avatars-095.webp"
+      }
+    },
+    {
+      "id": "company-096",
+      "filename": "company-avatars-096",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-096.png",
+        "preview": "preview/company-avatars-096.jpg",
+        "thumbnail": "thumbnails/company-avatars-096.webp"
+      }
+    },
+    {
+      "id": "company-097",
+      "filename": "company-avatars-097",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-097.png",
+        "preview": "preview/company-avatars-097.jpg",
+        "thumbnail": "thumbnails/company-avatars-097.webp"
+      }
+    },
+    {
+      "id": "company-098",
+      "filename": "company-avatars-098",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-098.png",
+        "preview": "preview/company-avatars-098.jpg",
+        "thumbnail": "thumbnails/company-avatars-098.webp"
+      }
+    },
+    {
+      "id": "company-099",
+      "filename": "company-avatars-099",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#b8c838"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-099.png",
+        "preview": "preview/company-avatars-099.jpg",
+        "thumbnail": "thumbnails/company-avatars-099.webp"
+      }
+    },
+    {
+      "id": "company-100",
+      "filename": "company-avatars-100",
+      "tags": [
+        "logo",
+        "brand",
+        "corporate"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/company-avatars-100.png",
+        "preview": "preview/company-avatars-100.jpg",
+        "thumbnail": "thumbnails/company-avatars-100.webp"
       }
     }
   ]

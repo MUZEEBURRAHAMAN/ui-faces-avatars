@@ -3,7 +3,7 @@
     "id": "quiet-avatars",
     "name": "Quiet Avatars",
     "version": "1.0.0",
-    "count": 30,
+    "count": 100,
     "resolution": "4096x4096",
     "formats": [
       "png",
@@ -536,6 +536,1196 @@
         "4k": "4k/quiet-avatars-030.png",
         "preview": "preview/quiet-avatars-030.jpg",
         "thumbnail": "thumbnails/quiet-avatars-030.webp"
+      }
+    },
+    {
+      "id": "quiet-031",
+      "filename": "quiet-avatars-031",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-031.png",
+        "preview": "preview/quiet-avatars-031.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-031.webp"
+      }
+    },
+    {
+      "id": "quiet-032",
+      "filename": "quiet-avatars-032",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-032.png",
+        "preview": "preview/quiet-avatars-032.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-032.webp"
+      }
+    },
+    {
+      "id": "quiet-033",
+      "filename": "quiet-avatars-033",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-033.png",
+        "preview": "preview/quiet-avatars-033.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-033.webp"
+      }
+    },
+    {
+      "id": "quiet-034",
+      "filename": "quiet-avatars-034",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#78c8c8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-034.png",
+        "preview": "preview/quiet-avatars-034.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-034.webp"
+      }
+    },
+    {
+      "id": "quiet-035",
+      "filename": "quiet-avatars-035",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#c888d8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-035.png",
+        "preview": "preview/quiet-avatars-035.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-035.webp"
+      }
+    },
+    {
+      "id": "quiet-036",
+      "filename": "quiet-avatars-036",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-036.png",
+        "preview": "preview/quiet-avatars-036.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-036.webp"
+      }
+    },
+    {
+      "id": "quiet-037",
+      "filename": "quiet-avatars-037",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-037.png",
+        "preview": "preview/quiet-avatars-037.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-037.webp"
+      }
+    },
+    {
+      "id": "quiet-038",
+      "filename": "quiet-avatars-038",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-038.png",
+        "preview": "preview/quiet-avatars-038.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-038.webp"
+      }
+    },
+    {
+      "id": "quiet-039",
+      "filename": "quiet-avatars-039",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-039.png",
+        "preview": "preview/quiet-avatars-039.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-039.webp"
+      }
+    },
+    {
+      "id": "quiet-040",
+      "filename": "quiet-avatars-040",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-040.png",
+        "preview": "preview/quiet-avatars-040.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-040.webp"
+      }
+    },
+    {
+      "id": "quiet-041",
+      "filename": "quiet-avatars-041",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#c8d8a8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-041.png",
+        "preview": "preview/quiet-avatars-041.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-041.webp"
+      }
+    },
+    {
+      "id": "quiet-042",
+      "filename": "quiet-avatars-042",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#e8e898"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-042.png",
+        "preview": "preview/quiet-avatars-042.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-042.webp"
+      }
+    },
+    {
+      "id": "quiet-043",
+      "filename": "quiet-avatars-043",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-043.png",
+        "preview": "preview/quiet-avatars-043.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-043.webp"
+      }
+    },
+    {
+      "id": "quiet-044",
+      "filename": "quiet-avatars-044",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-044.png",
+        "preview": "preview/quiet-avatars-044.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-044.webp"
+      }
+    },
+    {
+      "id": "quiet-045",
+      "filename": "quiet-avatars-045",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-045.png",
+        "preview": "preview/quiet-avatars-045.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-045.webp"
+      }
+    },
+    {
+      "id": "quiet-046",
+      "filename": "quiet-avatars-046",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-046.png",
+        "preview": "preview/quiet-avatars-046.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-046.webp"
+      }
+    },
+    {
+      "id": "quiet-047",
+      "filename": "quiet-avatars-047",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-047.png",
+        "preview": "preview/quiet-avatars-047.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-047.webp"
+      }
+    },
+    {
+      "id": "quiet-048",
+      "filename": "quiet-avatars-048",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-048.png",
+        "preview": "preview/quiet-avatars-048.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-048.webp"
+      }
+    },
+    {
+      "id": "quiet-049",
+      "filename": "quiet-avatars-049",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#a8d8a8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-049.png",
+        "preview": "preview/quiet-avatars-049.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-049.webp"
+      }
+    },
+    {
+      "id": "quiet-050",
+      "filename": "quiet-avatars-050",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-050.png",
+        "preview": "preview/quiet-avatars-050.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-050.webp"
+      }
+    },
+    {
+      "id": "quiet-051",
+      "filename": "quiet-avatars-051",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#78d8f8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-051.png",
+        "preview": "preview/quiet-avatars-051.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-051.webp"
+      }
+    },
+    {
+      "id": "quiet-052",
+      "filename": "quiet-avatars-052",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f8d878"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-052.png",
+        "preview": "preview/quiet-avatars-052.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-052.webp"
+      }
+    },
+    {
+      "id": "quiet-053",
+      "filename": "quiet-avatars-053",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-053.png",
+        "preview": "preview/quiet-avatars-053.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-053.webp"
+      }
+    },
+    {
+      "id": "quiet-054",
+      "filename": "quiet-avatars-054",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-054.png",
+        "preview": "preview/quiet-avatars-054.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-054.webp"
+      }
+    },
+    {
+      "id": "quiet-055",
+      "filename": "quiet-avatars-055",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-055.png",
+        "preview": "preview/quiet-avatars-055.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-055.webp"
+      }
+    },
+    {
+      "id": "quiet-056",
+      "filename": "quiet-avatars-056",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#78d8e8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-056.png",
+        "preview": "preview/quiet-avatars-056.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-056.webp"
+      }
+    },
+    {
+      "id": "quiet-057",
+      "filename": "quiet-avatars-057",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f8d878"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-057.png",
+        "preview": "preview/quiet-avatars-057.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-057.webp"
+      }
+    },
+    {
+      "id": "quiet-058",
+      "filename": "quiet-avatars-058",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-058.png",
+        "preview": "preview/quiet-avatars-058.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-058.webp"
+      }
+    },
+    {
+      "id": "quiet-059",
+      "filename": "quiet-avatars-059",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-059.png",
+        "preview": "preview/quiet-avatars-059.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-059.webp"
+      }
+    },
+    {
+      "id": "quiet-060",
+      "filename": "quiet-avatars-060",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-060.png",
+        "preview": "preview/quiet-avatars-060.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-060.webp"
+      }
+    },
+    {
+      "id": "quiet-061",
+      "filename": "quiet-avatars-061",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#88c8f8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-061.png",
+        "preview": "preview/quiet-avatars-061.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-061.webp"
+      }
+    },
+    {
+      "id": "quiet-062",
+      "filename": "quiet-avatars-062",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-062.png",
+        "preview": "preview/quiet-avatars-062.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-062.webp"
+      }
+    },
+    {
+      "id": "quiet-063",
+      "filename": "quiet-avatars-063",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-063.png",
+        "preview": "preview/quiet-avatars-063.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-063.webp"
+      }
+    },
+    {
+      "id": "quiet-064",
+      "filename": "quiet-avatars-064",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#a898d8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-064.png",
+        "preview": "preview/quiet-avatars-064.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-064.webp"
+      }
+    },
+    {
+      "id": "quiet-065",
+      "filename": "quiet-avatars-065",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-065.png",
+        "preview": "preview/quiet-avatars-065.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-065.webp"
+      }
+    },
+    {
+      "id": "quiet-066",
+      "filename": "quiet-avatars-066",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-066.png",
+        "preview": "preview/quiet-avatars-066.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-066.webp"
+      }
+    },
+    {
+      "id": "quiet-067",
+      "filename": "quiet-avatars-067",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-067.png",
+        "preview": "preview/quiet-avatars-067.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-067.webp"
+      }
+    },
+    {
+      "id": "quiet-068",
+      "filename": "quiet-avatars-068",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f888a8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-068.png",
+        "preview": "preview/quiet-avatars-068.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-068.webp"
+      }
+    },
+    {
+      "id": "quiet-069",
+      "filename": "quiet-avatars-069",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-069.png",
+        "preview": "preview/quiet-avatars-069.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-069.webp"
+      }
+    },
+    {
+      "id": "quiet-070",
+      "filename": "quiet-avatars-070",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#78d8e8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-070.png",
+        "preview": "preview/quiet-avatars-070.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-070.webp"
+      }
+    },
+    {
+      "id": "quiet-071",
+      "filename": "quiet-avatars-071",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-071.png",
+        "preview": "preview/quiet-avatars-071.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-071.webp"
+      }
+    },
+    {
+      "id": "quiet-072",
+      "filename": "quiet-avatars-072",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#c888d8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-072.png",
+        "preview": "preview/quiet-avatars-072.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-072.webp"
+      }
+    },
+    {
+      "id": "quiet-073",
+      "filename": "quiet-avatars-073",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-073.png",
+        "preview": "preview/quiet-avatars-073.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-073.webp"
+      }
+    },
+    {
+      "id": "quiet-074",
+      "filename": "quiet-avatars-074",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#78d8f8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-074.png",
+        "preview": "preview/quiet-avatars-074.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-074.webp"
+      }
+    },
+    {
+      "id": "quiet-075",
+      "filename": "quiet-avatars-075",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-075.png",
+        "preview": "preview/quiet-avatars-075.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-075.webp"
+      }
+    },
+    {
+      "id": "quiet-076",
+      "filename": "quiet-avatars-076",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-076.png",
+        "preview": "preview/quiet-avatars-076.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-076.webp"
+      }
+    },
+    {
+      "id": "quiet-077",
+      "filename": "quiet-avatars-077",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-077.png",
+        "preview": "preview/quiet-avatars-077.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-077.webp"
+      }
+    },
+    {
+      "id": "quiet-078",
+      "filename": "quiet-avatars-078",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-078.png",
+        "preview": "preview/quiet-avatars-078.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-078.webp"
+      }
+    },
+    {
+      "id": "quiet-079",
+      "filename": "quiet-avatars-079",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-079.png",
+        "preview": "preview/quiet-avatars-079.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-079.webp"
+      }
+    },
+    {
+      "id": "quiet-080",
+      "filename": "quiet-avatars-080",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-080.png",
+        "preview": "preview/quiet-avatars-080.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-080.webp"
+      }
+    },
+    {
+      "id": "quiet-081",
+      "filename": "quiet-avatars-081",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-081.png",
+        "preview": "preview/quiet-avatars-081.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-081.webp"
+      }
+    },
+    {
+      "id": "quiet-082",
+      "filename": "quiet-avatars-082",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-082.png",
+        "preview": "preview/quiet-avatars-082.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-082.webp"
+      }
+    },
+    {
+      "id": "quiet-083",
+      "filename": "quiet-avatars-083",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-083.png",
+        "preview": "preview/quiet-avatars-083.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-083.webp"
+      }
+    },
+    {
+      "id": "quiet-084",
+      "filename": "quiet-avatars-084",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f8f898"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-084.png",
+        "preview": "preview/quiet-avatars-084.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-084.webp"
+      }
+    },
+    {
+      "id": "quiet-085",
+      "filename": "quiet-avatars-085",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#98a8d8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-085.png",
+        "preview": "preview/quiet-avatars-085.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-085.webp"
+      }
+    },
+    {
+      "id": "quiet-086",
+      "filename": "quiet-avatars-086",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f8f898"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-086.png",
+        "preview": "preview/quiet-avatars-086.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-086.webp"
+      }
+    },
+    {
+      "id": "quiet-087",
+      "filename": "quiet-avatars-087",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-087.png",
+        "preview": "preview/quiet-avatars-087.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-087.webp"
+      }
+    },
+    {
+      "id": "quiet-088",
+      "filename": "quiet-avatars-088",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-088.png",
+        "preview": "preview/quiet-avatars-088.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-088.webp"
+      }
+    },
+    {
+      "id": "quiet-089",
+      "filename": "quiet-avatars-089",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f8c878"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-089.png",
+        "preview": "preview/quiet-avatars-089.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-089.webp"
+      }
+    },
+    {
+      "id": "quiet-090",
+      "filename": "quiet-avatars-090",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#78d8e8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-090.png",
+        "preview": "preview/quiet-avatars-090.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-090.webp"
+      }
+    },
+    {
+      "id": "quiet-091",
+      "filename": "quiet-avatars-091",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-091.png",
+        "preview": "preview/quiet-avatars-091.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-091.webp"
+      }
+    },
+    {
+      "id": "quiet-092",
+      "filename": "quiet-avatars-092",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#98a8d8"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-092.png",
+        "preview": "preview/quiet-avatars-092.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-092.webp"
+      }
+    },
+    {
+      "id": "quiet-093",
+      "filename": "quiet-avatars-093",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-093.png",
+        "preview": "preview/quiet-avatars-093.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-093.webp"
+      }
+    },
+    {
+      "id": "quiet-094",
+      "filename": "quiet-avatars-094",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-094.png",
+        "preview": "preview/quiet-avatars-094.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-094.webp"
+      }
+    },
+    {
+      "id": "quiet-095",
+      "filename": "quiet-avatars-095",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-095.png",
+        "preview": "preview/quiet-avatars-095.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-095.webp"
+      }
+    },
+    {
+      "id": "quiet-096",
+      "filename": "quiet-avatars-096",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-096.png",
+        "preview": "preview/quiet-avatars-096.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-096.webp"
+      }
+    },
+    {
+      "id": "quiet-097",
+      "filename": "quiet-avatars-097",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-097.png",
+        "preview": "preview/quiet-avatars-097.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-097.webp"
+      }
+    },
+    {
+      "id": "quiet-098",
+      "filename": "quiet-avatars-098",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#e8e898"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-098.png",
+        "preview": "preview/quiet-avatars-098.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-098.webp"
+      }
+    },
+    {
+      "id": "quiet-099",
+      "filename": "quiet-avatars-099",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-099.png",
+        "preview": "preview/quiet-avatars-099.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-099.webp"
+      }
+    },
+    {
+      "id": "quiet-100",
+      "filename": "quiet-avatars-100",
+      "tags": [
+        "quiet",
+        "subtle",
+        "minimal"
+      ],
+      "dominant_colors": [
+        "#f8a888"
+      ],
+      "files": {
+        "4k": "4k/quiet-avatars-100.png",
+        "preview": "preview/quiet-avatars-100.jpg",
+        "thumbnail": "thumbnails/quiet-avatars-100.webp"
       }
     }
   ]

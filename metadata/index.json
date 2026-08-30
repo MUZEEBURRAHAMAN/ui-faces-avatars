@@ -4,7 +4,7 @@
   "author": "UI Faces",
   "website": "https://uifaces.co",
   "updated": "2026-08-30",
-  "total_avatars": 224,
+  "total_avatars": 700,
   "resolution": "4096x4096",
   "formats": [
     "png",
@@ -17,7 +17,7 @@
       "id": "company-avatars",
       "name": "Company Avatars",
       "slug": "company-avatars",
-      "count": 42,
+      "count": 100,
       "style": "vector",
       "description": "42 fictional logo-style avatars for product mockups. Perfect for dashboards, CRM tables, vendor lists, integrations, and workspaces.",
       "tags": [
@@ -36,7 +36,7 @@
       "id": "abstract-avatars",
       "name": "Abstract Avatars",
       "slug": "abstract-avatars",
-      "count": 30,
+      "count": 100,
       "style": "geometric",
       "description": "30 bold abstract avatars with artistic geometric styling. Perfect for anonymous profiles, creative products, and distinct interfaces.",
       "tags": [
@@ -55,7 +55,7 @@
       "id": "sculpted-avatars",
       "name": "Sculpted Avatars",
       "slug": "sculpted-avatars",
-      "count": 30,
+      "count": 100,
       "style": "3d-rendered",
       "description": "30 minimal sculpted avatars with faceted 3D busts. Perfect for premium mockups, anonymous profiles, and modern product interfaces.",
       "tags": [
@@ -74,7 +74,7 @@
       "id": "doodle-avatars",
       "name": "Doodle Avatars",
       "slug": "doodle-avatars",
-      "count": 32,
+      "count": 100,
       "style": "hand-drawn",
       "description": "32 hand-drawn avatars, sketched on paper and digitized. Perfect for onboarding, learning apps, and friendly product mockups.",
       "tags": [
@@ -93,7 +93,7 @@
       "id": "illustrated-avatars",
       "name": "Illustrated Avatars",
       "slug": "illustrated-avatars",
-      "count": 30,
+      "count": 100,
       "style": "illustrated",
       "description": "30 refined illustrated avatars with clean editorial styling. Perfect for SaaS mockups, team profiles, communities, and presentations.",
       "tags": [
@@ -112,7 +112,7 @@
       "id": "cartoon-avatars",
       "name": "Cartoon Avatars",
       "slug": "cartoon-avatars",
-      "count": 30,
+      "count": 100,
       "style": "cartoon",
       "description": "30 polished cartoon avatars with friendly product-ready characters. Perfect for apps, communities, onboarding, and playful mockups.",
       "tags": [
@@ -131,7 +131,7 @@
       "id": "quiet-avatars",
       "name": "Quiet Avatars",
       "slug": "quiet-avatars",
-      "count": 30,
+      "count": 100,
       "style": "minimal-abstract",
       "description": "30 subtle abstract avatars for calm, low-distraction placeholders. Perfect for dashboards, CRM tables, comments, and serious mockups.",
       "tags": [
