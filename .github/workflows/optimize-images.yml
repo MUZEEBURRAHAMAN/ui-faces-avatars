@@ -1,0 +1,53 @@
+name: Optimize Images
+
+on:
+  push:
+    paths:
+      - 'collections/**/4k/**'
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: npm ci
+
+      - name: Process images (resize + convert)
+        working-directory: scripts
+        run: node process-images.mjs
+
+      - name: Generate metadata
+        working-directory: scripts
+        run: node generate-metadata.mjs
+
+      - name: Generate preview grids
+        working-directory: scripts
+        run: node generate-preview-grid.mjs
+
+      - name: Validate image quality
+        working-directory: scripts
+        run: node process-images.mjs --validate-only
+
+      - name: Commit processed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add collections/*/preview collections/*/thumbnails metadata/ assets/
+          git diff --staged --quiet || git commit -m "chore: auto-process images (preview + thumbnails + metadata)"
+          git push

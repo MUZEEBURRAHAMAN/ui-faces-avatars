@@ -1,0 +1,7 @@
+# Git LFS — track large 4K originals
+collections/*/4k/*.png filter=lfs diff=lfs merge=lfs -text
+collections/*/4k/*.jpg filter=lfs diff=lfs merge=lfs -text
+
+# Preview and thumbnails are small enough for regular git
+# collections/*/preview/*.jpg
+# collections/*/thumbnails/*.webp

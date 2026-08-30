@@ -1,0 +1,16 @@
+{
+  "name": "ui-faces-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "process": "node process-images.mjs",
+    "process:validate": "node process-images.mjs --validate-only",
+    "metadata": "node generate-metadata.mjs",
+    "preview": "node generate-preview-grid.mjs",
+    "build": "npm run process && npm run metadata && npm run preview"
+  },
+  "dependencies": {
+    "sharp": "^0.33.4",
+    "glob": "^11.0.0"
+  }
+}
