@@ -1,0 +1,576 @@
+{
+  "collection": {
+    "id": "doodle-avatars",
+    "name": "Doodle Avatars",
+    "version": "1.0.0",
+    "count": 32,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "hand-drawn",
+    "description": "32 hand-drawn avatars, sketched on paper and digitized. Perfect for onboarding, learning apps, and friendly product mockups.",
+    "tags": [
+      "doodle",
+      "sketch",
+      "hand-drawn",
+      "friendly",
+      "organic"
+    ],
+    "price": 24,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-08-30",
+    "updated": "2026-08-30"
+  },
+  "avatars": [
+    {
+      "id": "doodle-001",
+      "filename": "doodle-avatars-001",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-001.png",
+        "preview": "preview/doodle-avatars-001.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-001.webp"
+      }
+    },
+    {
+      "id": "doodle-002",
+      "filename": "doodle-avatars-002",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-002.png",
+        "preview": "preview/doodle-avatars-002.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-002.webp"
+      }
+    },
+    {
+      "id": "doodle-003",
+      "filename": "doodle-avatars-003",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-003.png",
+        "preview": "preview/doodle-avatars-003.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-003.webp"
+      }
+    },
+    {
+      "id": "doodle-004",
+      "filename": "doodle-avatars-004",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-004.png",
+        "preview": "preview/doodle-avatars-004.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-004.webp"
+      }
+    },
+    {
+      "id": "doodle-005",
+      "filename": "doodle-avatars-005",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-005.png",
+        "preview": "preview/doodle-avatars-005.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-005.webp"
+      }
+    },
+    {
+      "id": "doodle-006",
+      "filename": "doodle-avatars-006",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-006.png",
+        "preview": "preview/doodle-avatars-006.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-006.webp"
+      }
+    },
+    {
+      "id": "doodle-007",
+      "filename": "doodle-avatars-007",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-007.png",
+        "preview": "preview/doodle-avatars-007.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-007.webp"
+      }
+    },
+    {
+      "id": "doodle-008",
+      "filename": "doodle-avatars-008",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-008.png",
+        "preview": "preview/doodle-avatars-008.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-008.webp"
+      }
+    },
+    {
+      "id": "doodle-009",
+      "filename": "doodle-avatars-009",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-009.png",
+        "preview": "preview/doodle-avatars-009.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-009.webp"
+      }
+    },
+    {
+      "id": "doodle-010",
+      "filename": "doodle-avatars-010",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-010.png",
+        "preview": "preview/doodle-avatars-010.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-010.webp"
+      }
+    },
+    {
+      "id": "doodle-011",
+      "filename": "doodle-avatars-011",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-011.png",
+        "preview": "preview/doodle-avatars-011.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-011.webp"
+      }
+    },
+    {
+      "id": "doodle-012",
+      "filename": "doodle-avatars-012",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-012.png",
+        "preview": "preview/doodle-avatars-012.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-012.webp"
+      }
+    },
+    {
+      "id": "doodle-013",
+      "filename": "doodle-avatars-013",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-013.png",
+        "preview": "preview/doodle-avatars-013.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-013.webp"
+      }
+    },
+    {
+      "id": "doodle-014",
+      "filename": "doodle-avatars-014",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-014.png",
+        "preview": "preview/doodle-avatars-014.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-014.webp"
+      }
+    },
+    {
+      "id": "doodle-015",
+      "filename": "doodle-avatars-015",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-015.png",
+        "preview": "preview/doodle-avatars-015.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-015.webp"
+      }
+    },
+    {
+      "id": "doodle-016",
+      "filename": "doodle-avatars-016",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-016.png",
+        "preview": "preview/doodle-avatars-016.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-016.webp"
+      }
+    },
+    {
+      "id": "doodle-017",
+      "filename": "doodle-avatars-017",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-017.png",
+        "preview": "preview/doodle-avatars-017.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-017.webp"
+      }
+    },
+    {
+      "id": "doodle-018",
+      "filename": "doodle-avatars-018",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-018.png",
+        "preview": "preview/doodle-avatars-018.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-018.webp"
+      }
+    },
+    {
+      "id": "doodle-019",
+      "filename": "doodle-avatars-019",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-019.png",
+        "preview": "preview/doodle-avatars-019.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-019.webp"
+      }
+    },
+    {
+      "id": "doodle-020",
+      "filename": "doodle-avatars-020",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-020.png",
+        "preview": "preview/doodle-avatars-020.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-020.webp"
+      }
+    },
+    {
+      "id": "doodle-021",
+      "filename": "doodle-avatars-021",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-021.png",
+        "preview": "preview/doodle-avatars-021.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-021.webp"
+      }
+    },
+    {
+      "id": "doodle-022",
+      "filename": "doodle-avatars-022",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-022.png",
+        "preview": "preview/doodle-avatars-022.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-022.webp"
+      }
+    },
+    {
+      "id": "doodle-023",
+      "filename": "doodle-avatars-023",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-023.png",
+        "preview": "preview/doodle-avatars-023.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-023.webp"
+      }
+    },
+    {
+      "id": "doodle-024",
+      "filename": "doodle-avatars-024",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-024.png",
+        "preview": "preview/doodle-avatars-024.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-024.webp"
+      }
+    },
+    {
+      "id": "doodle-025",
+      "filename": "doodle-avatars-025",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-025.png",
+        "preview": "preview/doodle-avatars-025.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-025.webp"
+      }
+    },
+    {
+      "id": "doodle-026",
+      "filename": "doodle-avatars-026",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-026.png",
+        "preview": "preview/doodle-avatars-026.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-026.webp"
+      }
+    },
+    {
+      "id": "doodle-027",
+      "filename": "doodle-avatars-027",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-027.png",
+        "preview": "preview/doodle-avatars-027.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-027.webp"
+      }
+    },
+    {
+      "id": "doodle-028",
+      "filename": "doodle-avatars-028",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-028.png",
+        "preview": "preview/doodle-avatars-028.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-028.webp"
+      }
+    },
+    {
+      "id": "doodle-029",
+      "filename": "doodle-avatars-029",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-029.png",
+        "preview": "preview/doodle-avatars-029.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-029.webp"
+      }
+    },
+    {
+      "id": "doodle-030",
+      "filename": "doodle-avatars-030",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-030.png",
+        "preview": "preview/doodle-avatars-030.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-030.webp"
+      }
+    },
+    {
+      "id": "doodle-031",
+      "filename": "doodle-avatars-031",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-031.png",
+        "preview": "preview/doodle-avatars-031.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-031.webp"
+      }
+    },
+    {
+      "id": "doodle-032",
+      "filename": "doodle-avatars-032",
+      "tags": [
+        "doodle",
+        "sketch",
+        "hand-drawn"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/doodle-avatars-032.png",
+        "preview": "preview/doodle-avatars-032.jpg",
+        "thumbnail": "thumbnails/doodle-avatars-032.webp"
+      }
+    }
+  ]
+}

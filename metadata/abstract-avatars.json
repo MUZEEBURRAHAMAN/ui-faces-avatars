@@ -1,0 +1,542 @@
+{
+  "collection": {
+    "id": "abstract-avatars",
+    "name": "Abstract Avatars",
+    "version": "1.0.0",
+    "count": 30,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "geometric",
+    "description": "30 bold abstract avatars with artistic geometric styling. Perfect for anonymous profiles, creative products, and distinct interfaces.",
+    "tags": [
+      "abstract",
+      "geometric",
+      "artistic",
+      "bold",
+      "colorful"
+    ],
+    "price": 12,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-08-30",
+    "updated": "2026-08-30"
+  },
+  "avatars": [
+    {
+      "id": "abstract-001",
+      "filename": "abstract-avatars-001",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-001.png",
+        "preview": "preview/abstract-avatars-001.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-001.webp"
+      }
+    },
+    {
+      "id": "abstract-002",
+      "filename": "abstract-avatars-002",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-002.png",
+        "preview": "preview/abstract-avatars-002.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-002.webp"
+      }
+    },
+    {
+      "id": "abstract-003",
+      "filename": "abstract-avatars-003",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-003.png",
+        "preview": "preview/abstract-avatars-003.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-003.webp"
+      }
+    },
+    {
+      "id": "abstract-004",
+      "filename": "abstract-avatars-004",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-004.png",
+        "preview": "preview/abstract-avatars-004.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-004.webp"
+      }
+    },
+    {
+      "id": "abstract-005",
+      "filename": "abstract-avatars-005",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-005.png",
+        "preview": "preview/abstract-avatars-005.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-005.webp"
+      }
+    },
+    {
+      "id": "abstract-006",
+      "filename": "abstract-avatars-006",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-006.png",
+        "preview": "preview/abstract-avatars-006.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-006.webp"
+      }
+    },
+    {
+      "id": "abstract-007",
+      "filename": "abstract-avatars-007",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-007.png",
+        "preview": "preview/abstract-avatars-007.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-007.webp"
+      }
+    },
+    {
+      "id": "abstract-008",
+      "filename": "abstract-avatars-008",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-008.png",
+        "preview": "preview/abstract-avatars-008.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-008.webp"
+      }
+    },
+    {
+      "id": "abstract-009",
+      "filename": "abstract-avatars-009",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-009.png",
+        "preview": "preview/abstract-avatars-009.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-009.webp"
+      }
+    },
+    {
+      "id": "abstract-010",
+      "filename": "abstract-avatars-010",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-010.png",
+        "preview": "preview/abstract-avatars-010.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-010.webp"
+      }
+    },
+    {
+      "id": "abstract-011",
+      "filename": "abstract-avatars-011",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-011.png",
+        "preview": "preview/abstract-avatars-011.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-011.webp"
+      }
+    },
+    {
+      "id": "abstract-012",
+      "filename": "abstract-avatars-012",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-012.png",
+        "preview": "preview/abstract-avatars-012.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-012.webp"
+      }
+    },
+    {
+      "id": "abstract-013",
+      "filename": "abstract-avatars-013",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-013.png",
+        "preview": "preview/abstract-avatars-013.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-013.webp"
+      }
+    },
+    {
+      "id": "abstract-014",
+      "filename": "abstract-avatars-014",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-014.png",
+        "preview": "preview/abstract-avatars-014.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-014.webp"
+      }
+    },
+    {
+      "id": "abstract-015",
+      "filename": "abstract-avatars-015",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-015.png",
+        "preview": "preview/abstract-avatars-015.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-015.webp"
+      }
+    },
+    {
+      "id": "abstract-016",
+      "filename": "abstract-avatars-016",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-016.png",
+        "preview": "preview/abstract-avatars-016.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-016.webp"
+      }
+    },
+    {
+      "id": "abstract-017",
+      "filename": "abstract-avatars-017",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-017.png",
+        "preview": "preview/abstract-avatars-017.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-017.webp"
+      }
+    },
+    {
+      "id": "abstract-018",
+      "filename": "abstract-avatars-018",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-018.png",
+        "preview": "preview/abstract-avatars-018.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-018.webp"
+      }
+    },
+    {
+      "id": "abstract-019",
+      "filename": "abstract-avatars-019",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-019.png",
+        "preview": "preview/abstract-avatars-019.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-019.webp"
+      }
+    },
+    {
+      "id": "abstract-020",
+      "filename": "abstract-avatars-020",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-020.png",
+        "preview": "preview/abstract-avatars-020.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-020.webp"
+      }
+    },
+    {
+      "id": "abstract-021",
+      "filename": "abstract-avatars-021",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#68d8e8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-021.png",
+        "preview": "preview/abstract-avatars-021.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-021.webp"
+      }
+    },
+    {
+      "id": "abstract-022",
+      "filename": "abstract-avatars-022",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f8f8d8"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-022.png",
+        "preview": "preview/abstract-avatars-022.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-022.webp"
+      }
+    },
+    {
+      "id": "abstract-023",
+      "filename": "abstract-avatars-023",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-023.png",
+        "preview": "preview/abstract-avatars-023.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-023.webp"
+      }
+    },
+    {
+      "id": "abstract-024",
+      "filename": "abstract-avatars-024",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-024.png",
+        "preview": "preview/abstract-avatars-024.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-024.webp"
+      }
+    },
+    {
+      "id": "abstract-025",
+      "filename": "abstract-avatars-025",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-025.png",
+        "preview": "preview/abstract-avatars-025.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-025.webp"
+      }
+    },
+    {
+      "id": "abstract-026",
+      "filename": "abstract-avatars-026",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#187898"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-026.png",
+        "preview": "preview/abstract-avatars-026.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-026.webp"
+      }
+    },
+    {
+      "id": "abstract-027",
+      "filename": "abstract-avatars-027",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-027.png",
+        "preview": "preview/abstract-avatars-027.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-027.webp"
+      }
+    },
+    {
+      "id": "abstract-028",
+      "filename": "abstract-avatars-028",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-028.png",
+        "preview": "preview/abstract-avatars-028.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-028.webp"
+      }
+    },
+    {
+      "id": "abstract-029",
+      "filename": "abstract-avatars-029",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#f88848"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-029.png",
+        "preview": "preview/abstract-avatars-029.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-029.webp"
+      }
+    },
+    {
+      "id": "abstract-030",
+      "filename": "abstract-avatars-030",
+      "tags": [
+        "abstract",
+        "geometric",
+        "artistic"
+      ],
+      "dominant_colors": [
+        "#085888"
+      ],
+      "files": {
+        "4k": "4k/abstract-avatars-030.png",
+        "preview": "preview/abstract-avatars-030.jpg",
+        "thumbnail": "thumbnails/abstract-avatars-030.webp"
+      }
+    }
+  ]
+}

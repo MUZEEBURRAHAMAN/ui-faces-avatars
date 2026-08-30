@@ -1,0 +1,542 @@
+{
+  "collection": {
+    "id": "cartoon-avatars",
+    "name": "Cartoon Avatars",
+    "version": "1.0.0",
+    "count": 30,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "cartoon",
+    "description": "30 polished cartoon avatars with friendly product-ready characters. Perfect for apps, communities, onboarding, and playful mockups.",
+    "tags": [
+      "cartoon",
+      "friendly",
+      "playful",
+      "character",
+      "fun"
+    ],
+    "price": 6,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-08-30",
+    "updated": "2026-08-30"
+  },
+  "avatars": [
+    {
+      "id": "cartoon-001",
+      "filename": "cartoon-avatars-001",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#f8d898"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-001.png",
+        "preview": "preview/cartoon-avatars-001.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-001.webp"
+      }
+    },
+    {
+      "id": "cartoon-002",
+      "filename": "cartoon-avatars-002",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#0898f8"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-002.png",
+        "preview": "preview/cartoon-avatars-002.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-002.webp"
+      }
+    },
+    {
+      "id": "cartoon-003",
+      "filename": "cartoon-avatars-003",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#f8b838"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-003.png",
+        "preview": "preview/cartoon-avatars-003.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-003.webp"
+      }
+    },
+    {
+      "id": "cartoon-004",
+      "filename": "cartoon-avatars-004",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#0898f8"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-004.png",
+        "preview": "preview/cartoon-avatars-004.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-004.webp"
+      }
+    },
+    {
+      "id": "cartoon-005",
+      "filename": "cartoon-avatars-005",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#78c868"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-005.png",
+        "preview": "preview/cartoon-avatars-005.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-005.webp"
+      }
+    },
+    {
+      "id": "cartoon-006",
+      "filename": "cartoon-avatars-006",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#78c868"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-006.png",
+        "preview": "preview/cartoon-avatars-006.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-006.webp"
+      }
+    },
+    {
+      "id": "cartoon-007",
+      "filename": "cartoon-avatars-007",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#f8d898"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-007.png",
+        "preview": "preview/cartoon-avatars-007.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-007.webp"
+      }
+    },
+    {
+      "id": "cartoon-008",
+      "filename": "cartoon-avatars-008",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#d848e8"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-008.png",
+        "preview": "preview/cartoon-avatars-008.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-008.webp"
+      }
+    },
+    {
+      "id": "cartoon-009",
+      "filename": "cartoon-avatars-009",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#d89858"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-009.png",
+        "preview": "preview/cartoon-avatars-009.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-009.webp"
+      }
+    },
+    {
+      "id": "cartoon-010",
+      "filename": "cartoon-avatars-010",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#78c868"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-010.png",
+        "preview": "preview/cartoon-avatars-010.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-010.webp"
+      }
+    },
+    {
+      "id": "cartoon-011",
+      "filename": "cartoon-avatars-011",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#d848e8"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-011.png",
+        "preview": "preview/cartoon-avatars-011.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-011.webp"
+      }
+    },
+    {
+      "id": "cartoon-012",
+      "filename": "cartoon-avatars-012",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#d89858"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-012.png",
+        "preview": "preview/cartoon-avatars-012.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-012.webp"
+      }
+    },
+    {
+      "id": "cartoon-013",
+      "filename": "cartoon-avatars-013",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#d89858"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-013.png",
+        "preview": "preview/cartoon-avatars-013.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-013.webp"
+      }
+    },
+    {
+      "id": "cartoon-014",
+      "filename": "cartoon-avatars-014",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#78c868"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-014.png",
+        "preview": "preview/cartoon-avatars-014.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-014.webp"
+      }
+    },
+    {
+      "id": "cartoon-015",
+      "filename": "cartoon-avatars-015",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#78c868"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-015.png",
+        "preview": "preview/cartoon-avatars-015.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-015.webp"
+      }
+    },
+    {
+      "id": "cartoon-016",
+      "filename": "cartoon-avatars-016",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-016.png",
+        "preview": "preview/cartoon-avatars-016.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-016.webp"
+      }
+    },
+    {
+      "id": "cartoon-017",
+      "filename": "cartoon-avatars-017",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-017.png",
+        "preview": "preview/cartoon-avatars-017.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-017.webp"
+      }
+    },
+    {
+      "id": "cartoon-018",
+      "filename": "cartoon-avatars-018",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-018.png",
+        "preview": "preview/cartoon-avatars-018.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-018.webp"
+      }
+    },
+    {
+      "id": "cartoon-019",
+      "filename": "cartoon-avatars-019",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-019.png",
+        "preview": "preview/cartoon-avatars-019.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-019.webp"
+      }
+    },
+    {
+      "id": "cartoon-020",
+      "filename": "cartoon-avatars-020",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-020.png",
+        "preview": "preview/cartoon-avatars-020.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-020.webp"
+      }
+    },
+    {
+      "id": "cartoon-021",
+      "filename": "cartoon-avatars-021",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-021.png",
+        "preview": "preview/cartoon-avatars-021.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-021.webp"
+      }
+    },
+    {
+      "id": "cartoon-022",
+      "filename": "cartoon-avatars-022",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-022.png",
+        "preview": "preview/cartoon-avatars-022.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-022.webp"
+      }
+    },
+    {
+      "id": "cartoon-023",
+      "filename": "cartoon-avatars-023",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-023.png",
+        "preview": "preview/cartoon-avatars-023.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-023.webp"
+      }
+    },
+    {
+      "id": "cartoon-024",
+      "filename": "cartoon-avatars-024",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-024.png",
+        "preview": "preview/cartoon-avatars-024.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-024.webp"
+      }
+    },
+    {
+      "id": "cartoon-025",
+      "filename": "cartoon-avatars-025",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-025.png",
+        "preview": "preview/cartoon-avatars-025.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-025.webp"
+      }
+    },
+    {
+      "id": "cartoon-026",
+      "filename": "cartoon-avatars-026",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-026.png",
+        "preview": "preview/cartoon-avatars-026.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-026.webp"
+      }
+    },
+    {
+      "id": "cartoon-027",
+      "filename": "cartoon-avatars-027",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-027.png",
+        "preview": "preview/cartoon-avatars-027.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-027.webp"
+      }
+    },
+    {
+      "id": "cartoon-028",
+      "filename": "cartoon-avatars-028",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-028.png",
+        "preview": "preview/cartoon-avatars-028.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-028.webp"
+      }
+    },
+    {
+      "id": "cartoon-029",
+      "filename": "cartoon-avatars-029",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-029.png",
+        "preview": "preview/cartoon-avatars-029.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-029.webp"
+      }
+    },
+    {
+      "id": "cartoon-030",
+      "filename": "cartoon-avatars-030",
+      "tags": [
+        "cartoon",
+        "friendly",
+        "playful"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/cartoon-avatars-030.png",
+        "preview": "preview/cartoon-avatars-030.jpg",
+        "thumbnail": "thumbnails/cartoon-avatars-030.webp"
+      }
+    }
+  ]
+}

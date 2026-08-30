@@ -1,0 +1,542 @@
+{
+  "collection": {
+    "id": "sculpted-avatars",
+    "name": "Sculpted Avatars",
+    "version": "1.0.0",
+    "count": 30,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "3d-rendered",
+    "description": "30 minimal sculpted avatars with faceted 3D busts. Perfect for premium mockups, anonymous profiles, and modern product interfaces.",
+    "tags": [
+      "3d",
+      "sculpted",
+      "clay",
+      "minimal",
+      "pastel"
+    ],
+    "price": 12,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-08-30",
+    "updated": "2026-08-30"
+  },
+  "avatars": [
+    {
+      "id": "sculpted-001",
+      "filename": "sculpted-avatars-001",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-001.png",
+        "preview": "preview/sculpted-avatars-001.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-001.webp"
+      }
+    },
+    {
+      "id": "sculpted-002",
+      "filename": "sculpted-avatars-002",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-002.png",
+        "preview": "preview/sculpted-avatars-002.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-002.webp"
+      }
+    },
+    {
+      "id": "sculpted-003",
+      "filename": "sculpted-avatars-003",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-003.png",
+        "preview": "preview/sculpted-avatars-003.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-003.webp"
+      }
+    },
+    {
+      "id": "sculpted-004",
+      "filename": "sculpted-avatars-004",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-004.png",
+        "preview": "preview/sculpted-avatars-004.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-004.webp"
+      }
+    },
+    {
+      "id": "sculpted-005",
+      "filename": "sculpted-avatars-005",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-005.png",
+        "preview": "preview/sculpted-avatars-005.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-005.webp"
+      }
+    },
+    {
+      "id": "sculpted-006",
+      "filename": "sculpted-avatars-006",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-006.png",
+        "preview": "preview/sculpted-avatars-006.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-006.webp"
+      }
+    },
+    {
+      "id": "sculpted-007",
+      "filename": "sculpted-avatars-007",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-007.png",
+        "preview": "preview/sculpted-avatars-007.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-007.webp"
+      }
+    },
+    {
+      "id": "sculpted-008",
+      "filename": "sculpted-avatars-008",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-008.png",
+        "preview": "preview/sculpted-avatars-008.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-008.webp"
+      }
+    },
+    {
+      "id": "sculpted-009",
+      "filename": "sculpted-avatars-009",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-009.png",
+        "preview": "preview/sculpted-avatars-009.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-009.webp"
+      }
+    },
+    {
+      "id": "sculpted-010",
+      "filename": "sculpted-avatars-010",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-010.png",
+        "preview": "preview/sculpted-avatars-010.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-010.webp"
+      }
+    },
+    {
+      "id": "sculpted-011",
+      "filename": "sculpted-avatars-011",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-011.png",
+        "preview": "preview/sculpted-avatars-011.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-011.webp"
+      }
+    },
+    {
+      "id": "sculpted-012",
+      "filename": "sculpted-avatars-012",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-012.png",
+        "preview": "preview/sculpted-avatars-012.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-012.webp"
+      }
+    },
+    {
+      "id": "sculpted-013",
+      "filename": "sculpted-avatars-013",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-013.png",
+        "preview": "preview/sculpted-avatars-013.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-013.webp"
+      }
+    },
+    {
+      "id": "sculpted-014",
+      "filename": "sculpted-avatars-014",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-014.png",
+        "preview": "preview/sculpted-avatars-014.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-014.webp"
+      }
+    },
+    {
+      "id": "sculpted-015",
+      "filename": "sculpted-avatars-015",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-015.png",
+        "preview": "preview/sculpted-avatars-015.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-015.webp"
+      }
+    },
+    {
+      "id": "sculpted-016",
+      "filename": "sculpted-avatars-016",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-016.png",
+        "preview": "preview/sculpted-avatars-016.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-016.webp"
+      }
+    },
+    {
+      "id": "sculpted-017",
+      "filename": "sculpted-avatars-017",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-017.png",
+        "preview": "preview/sculpted-avatars-017.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-017.webp"
+      }
+    },
+    {
+      "id": "sculpted-018",
+      "filename": "sculpted-avatars-018",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-018.png",
+        "preview": "preview/sculpted-avatars-018.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-018.webp"
+      }
+    },
+    {
+      "id": "sculpted-019",
+      "filename": "sculpted-avatars-019",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-019.png",
+        "preview": "preview/sculpted-avatars-019.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-019.webp"
+      }
+    },
+    {
+      "id": "sculpted-020",
+      "filename": "sculpted-avatars-020",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-020.png",
+        "preview": "preview/sculpted-avatars-020.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-020.webp"
+      }
+    },
+    {
+      "id": "sculpted-021",
+      "filename": "sculpted-avatars-021",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#88c8c8"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-021.png",
+        "preview": "preview/sculpted-avatars-021.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-021.webp"
+      }
+    },
+    {
+      "id": "sculpted-022",
+      "filename": "sculpted-avatars-022",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-022.png",
+        "preview": "preview/sculpted-avatars-022.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-022.webp"
+      }
+    },
+    {
+      "id": "sculpted-023",
+      "filename": "sculpted-avatars-023",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-023.png",
+        "preview": "preview/sculpted-avatars-023.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-023.webp"
+      }
+    },
+    {
+      "id": "sculpted-024",
+      "filename": "sculpted-avatars-024",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-024.png",
+        "preview": "preview/sculpted-avatars-024.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-024.webp"
+      }
+    },
+    {
+      "id": "sculpted-025",
+      "filename": "sculpted-avatars-025",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-025.png",
+        "preview": "preview/sculpted-avatars-025.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-025.webp"
+      }
+    },
+    {
+      "id": "sculpted-026",
+      "filename": "sculpted-avatars-026",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-026.png",
+        "preview": "preview/sculpted-avatars-026.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-026.webp"
+      }
+    },
+    {
+      "id": "sculpted-027",
+      "filename": "sculpted-avatars-027",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-027.png",
+        "preview": "preview/sculpted-avatars-027.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-027.webp"
+      }
+    },
+    {
+      "id": "sculpted-028",
+      "filename": "sculpted-avatars-028",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-028.png",
+        "preview": "preview/sculpted-avatars-028.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-028.webp"
+      }
+    },
+    {
+      "id": "sculpted-029",
+      "filename": "sculpted-avatars-029",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-029.png",
+        "preview": "preview/sculpted-avatars-029.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-029.webp"
+      }
+    },
+    {
+      "id": "sculpted-030",
+      "filename": "sculpted-avatars-030",
+      "tags": [
+        "3d",
+        "sculpted",
+        "clay"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/sculpted-avatars-030.png",
+        "preview": "preview/sculpted-avatars-030.jpg",
+        "thumbnail": "thumbnails/sculpted-avatars-030.webp"
+      }
+    }
+  ]
+}
