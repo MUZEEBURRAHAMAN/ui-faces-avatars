@@ -3,31 +3,42 @@
     "id": "office-avatars",
     "name": "Office Avatars",
     "version": "1.0.0",
-    "count": 72,
+    "count": 100,
     "resolution": "4096x4096",
-    "formats": ["png", "jpg", "webp"],
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
     "color_space": "sRGB",
     "style": "photorealistic",
-    "description": "72 realistic office avatars featuring authentic workplace moments. Studio-lit professional headshots with neutral backgrounds.",
-    "tags": ["professional", "corporate", "workplace", "headshot", "business", "team", "realistic", "studio", "neutral-bg"],
-    "usage": ["mockups", "dashboards", "team-directories", "presentations", "saas", "crm"],
+    "description": "72 realistic office avatars featuring authentic workplace moments. Perfect for SaaS mockups, team directories, dashboards, and business software.",
+    "tags": [
+      "professional",
+      "corporate",
+      "workplace",
+      "headshot",
+      "business"
+    ],
     "price": 12,
     "currency": "USD",
     "licenses_total": 100,
     "licenses_remaining": 100,
-    "created": "2026-08-30",
-    "updated": "2026-08-30"
+    "created": "2026-09-01",
+    "updated": "2026-09-01"
   },
   "avatars": [
     {
       "id": "office-001",
       "filename": "office-avatars-001",
-      "gender": "female",
-      "age_range": "25-35",
-      "ethnicity": "asian",
-      "tags": ["professional", "smile", "glasses", "blazer"],
-      "dominant_colors": ["#4A4A4A", "#D4A574", "#2C3E50"],
-      "background": "neutral-gray",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
       "files": {
         "4k": "4k/office-avatars-001.png",
         "preview": "preview/office-avatars-001.jpg",
@@ -37,12 +48,14 @@
     {
       "id": "office-002",
       "filename": "office-avatars-002",
-      "gender": "male",
-      "age_range": "30-40",
-      "ethnicity": "caucasian",
-      "tags": ["professional", "beard", "suit", "confident"],
-      "dominant_colors": ["#2C3E50", "#8B6F47", "#E8D5C4"],
-      "background": "neutral-gray",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
       "files": {
         "4k": "4k/office-avatars-002.png",
         "preview": "preview/office-avatars-002.jpg",
@@ -52,18 +65,1668 @@
     {
       "id": "office-003",
       "filename": "office-avatars-003",
-      "gender": "female",
-      "age_range": "28-38",
-      "ethnicity": "african",
-      "tags": ["professional", "natural-hair", "earrings", "warm-smile"],
-      "dominant_colors": ["#5D4037", "#FF8A65", "#EFEBE9"],
-      "background": "neutral-gray",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
       "files": {
         "4k": "4k/office-avatars-003.png",
         "preview": "preview/office-avatars-003.jpg",
         "thumbnail": "thumbnails/office-avatars-003.webp"
       }
+    },
+    {
+      "id": "office-004",
+      "filename": "office-avatars-004",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-004.png",
+        "preview": "preview/office-avatars-004.jpg",
+        "thumbnail": "thumbnails/office-avatars-004.webp"
+      }
+    },
+    {
+      "id": "office-005",
+      "filename": "office-avatars-005",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484848"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-005.png",
+        "preview": "preview/office-avatars-005.jpg",
+        "thumbnail": "thumbnails/office-avatars-005.webp"
+      }
+    },
+    {
+      "id": "office-006",
+      "filename": "office-avatars-006",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#686868"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-006.png",
+        "preview": "preview/office-avatars-006.jpg",
+        "thumbnail": "thumbnails/office-avatars-006.webp"
+      }
+    },
+    {
+      "id": "office-007",
+      "filename": "office-avatars-007",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-007.png",
+        "preview": "preview/office-avatars-007.jpg",
+        "thumbnail": "thumbnails/office-avatars-007.webp"
+      }
+    },
+    {
+      "id": "office-008",
+      "filename": "office-avatars-008",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-008.png",
+        "preview": "preview/office-avatars-008.jpg",
+        "thumbnail": "thumbnails/office-avatars-008.webp"
+      }
+    },
+    {
+      "id": "office-009",
+      "filename": "office-avatars-009",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-009.png",
+        "preview": "preview/office-avatars-009.jpg",
+        "thumbnail": "thumbnails/office-avatars-009.webp"
+      }
+    },
+    {
+      "id": "office-010",
+      "filename": "office-avatars-010",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-010.png",
+        "preview": "preview/office-avatars-010.jpg",
+        "thumbnail": "thumbnails/office-avatars-010.webp"
+      }
+    },
+    {
+      "id": "office-011",
+      "filename": "office-avatars-011",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-011.png",
+        "preview": "preview/office-avatars-011.jpg",
+        "thumbnail": "thumbnails/office-avatars-011.webp"
+      }
+    },
+    {
+      "id": "office-012",
+      "filename": "office-avatars-012",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-012.png",
+        "preview": "preview/office-avatars-012.jpg",
+        "thumbnail": "thumbnails/office-avatars-012.webp"
+      }
+    },
+    {
+      "id": "office-013",
+      "filename": "office-avatars-013",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-013.png",
+        "preview": "preview/office-avatars-013.jpg",
+        "thumbnail": "thumbnails/office-avatars-013.webp"
+      }
+    },
+    {
+      "id": "office-014",
+      "filename": "office-avatars-014",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-014.png",
+        "preview": "preview/office-avatars-014.jpg",
+        "thumbnail": "thumbnails/office-avatars-014.webp"
+      }
+    },
+    {
+      "id": "office-015",
+      "filename": "office-avatars-015",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-015.png",
+        "preview": "preview/office-avatars-015.jpg",
+        "thumbnail": "thumbnails/office-avatars-015.webp"
+      }
+    },
+    {
+      "id": "office-016",
+      "filename": "office-avatars-016",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-016.png",
+        "preview": "preview/office-avatars-016.jpg",
+        "thumbnail": "thumbnails/office-avatars-016.webp"
+      }
+    },
+    {
+      "id": "office-017",
+      "filename": "office-avatars-017",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-017.png",
+        "preview": "preview/office-avatars-017.jpg",
+        "thumbnail": "thumbnails/office-avatars-017.webp"
+      }
+    },
+    {
+      "id": "office-018",
+      "filename": "office-avatars-018",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-018.png",
+        "preview": "preview/office-avatars-018.jpg",
+        "thumbnail": "thumbnails/office-avatars-018.webp"
+      }
+    },
+    {
+      "id": "office-019",
+      "filename": "office-avatars-019",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-019.png",
+        "preview": "preview/office-avatars-019.jpg",
+        "thumbnail": "thumbnails/office-avatars-019.webp"
+      }
+    },
+    {
+      "id": "office-020",
+      "filename": "office-avatars-020",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-020.png",
+        "preview": "preview/office-avatars-020.jpg",
+        "thumbnail": "thumbnails/office-avatars-020.webp"
+      }
+    },
+    {
+      "id": "office-021",
+      "filename": "office-avatars-021",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-021.png",
+        "preview": "preview/office-avatars-021.jpg",
+        "thumbnail": "thumbnails/office-avatars-021.webp"
+      }
+    },
+    {
+      "id": "office-022",
+      "filename": "office-avatars-022",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-022.png",
+        "preview": "preview/office-avatars-022.jpg",
+        "thumbnail": "thumbnails/office-avatars-022.webp"
+      }
+    },
+    {
+      "id": "office-023",
+      "filename": "office-avatars-023",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-023.png",
+        "preview": "preview/office-avatars-023.jpg",
+        "thumbnail": "thumbnails/office-avatars-023.webp"
+      }
+    },
+    {
+      "id": "office-024",
+      "filename": "office-avatars-024",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#d8d8d8"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-024.png",
+        "preview": "preview/office-avatars-024.jpg",
+        "thumbnail": "thumbnails/office-avatars-024.webp"
+      }
+    },
+    {
+      "id": "office-025",
+      "filename": "office-avatars-025",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-025.png",
+        "preview": "preview/office-avatars-025.jpg",
+        "thumbnail": "thumbnails/office-avatars-025.webp"
+      }
+    },
+    {
+      "id": "office-026",
+      "filename": "office-avatars-026",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484848"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-026.png",
+        "preview": "preview/office-avatars-026.jpg",
+        "thumbnail": "thumbnails/office-avatars-026.webp"
+      }
+    },
+    {
+      "id": "office-027",
+      "filename": "office-avatars-027",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484848"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-027.png",
+        "preview": "preview/office-avatars-027.jpg",
+        "thumbnail": "thumbnails/office-avatars-027.webp"
+      }
+    },
+    {
+      "id": "office-028",
+      "filename": "office-avatars-028",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-028.png",
+        "preview": "preview/office-avatars-028.jpg",
+        "thumbnail": "thumbnails/office-avatars-028.webp"
+      }
+    },
+    {
+      "id": "office-029",
+      "filename": "office-avatars-029",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-029.png",
+        "preview": "preview/office-avatars-029.jpg",
+        "thumbnail": "thumbnails/office-avatars-029.webp"
+      }
+    },
+    {
+      "id": "office-030",
+      "filename": "office-avatars-030",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484848"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-030.png",
+        "preview": "preview/office-avatars-030.jpg",
+        "thumbnail": "thumbnails/office-avatars-030.webp"
+      }
+    },
+    {
+      "id": "office-031",
+      "filename": "office-avatars-031",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#686868"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-031.png",
+        "preview": "preview/office-avatars-031.jpg",
+        "thumbnail": "thumbnails/office-avatars-031.webp"
+      }
+    },
+    {
+      "id": "office-032",
+      "filename": "office-avatars-032",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-032.png",
+        "preview": "preview/office-avatars-032.jpg",
+        "thumbnail": "thumbnails/office-avatars-032.webp"
+      }
+    },
+    {
+      "id": "office-033",
+      "filename": "office-avatars-033",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-033.png",
+        "preview": "preview/office-avatars-033.jpg",
+        "thumbnail": "thumbnails/office-avatars-033.webp"
+      }
+    },
+    {
+      "id": "office-034",
+      "filename": "office-avatars-034",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484848"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-034.png",
+        "preview": "preview/office-avatars-034.jpg",
+        "thumbnail": "thumbnails/office-avatars-034.webp"
+      }
+    },
+    {
+      "id": "office-035",
+      "filename": "office-avatars-035",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-035.png",
+        "preview": "preview/office-avatars-035.jpg",
+        "thumbnail": "thumbnails/office-avatars-035.webp"
+      }
+    },
+    {
+      "id": "office-036",
+      "filename": "office-avatars-036",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-036.png",
+        "preview": "preview/office-avatars-036.jpg",
+        "thumbnail": "thumbnails/office-avatars-036.webp"
+      }
+    },
+    {
+      "id": "office-037",
+      "filename": "office-avatars-037",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-037.png",
+        "preview": "preview/office-avatars-037.jpg",
+        "thumbnail": "thumbnails/office-avatars-037.webp"
+      }
+    },
+    {
+      "id": "office-038",
+      "filename": "office-avatars-038",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-038.png",
+        "preview": "preview/office-avatars-038.jpg",
+        "thumbnail": "thumbnails/office-avatars-038.webp"
+      }
+    },
+    {
+      "id": "office-039",
+      "filename": "office-avatars-039",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-039.png",
+        "preview": "preview/office-avatars-039.jpg",
+        "thumbnail": "thumbnails/office-avatars-039.webp"
+      }
+    },
+    {
+      "id": "office-040",
+      "filename": "office-avatars-040",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#686868"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-040.png",
+        "preview": "preview/office-avatars-040.jpg",
+        "thumbnail": "thumbnails/office-avatars-040.webp"
+      }
+    },
+    {
+      "id": "office-041",
+      "filename": "office-avatars-041",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-041.png",
+        "preview": "preview/office-avatars-041.jpg",
+        "thumbnail": "thumbnails/office-avatars-041.webp"
+      }
+    },
+    {
+      "id": "office-042",
+      "filename": "office-avatars-042",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-042.png",
+        "preview": "preview/office-avatars-042.jpg",
+        "thumbnail": "thumbnails/office-avatars-042.webp"
+      }
+    },
+    {
+      "id": "office-043",
+      "filename": "office-avatars-043",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-043.png",
+        "preview": "preview/office-avatars-043.jpg",
+        "thumbnail": "thumbnails/office-avatars-043.webp"
+      }
+    },
+    {
+      "id": "office-044",
+      "filename": "office-avatars-044",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-044.png",
+        "preview": "preview/office-avatars-044.jpg",
+        "thumbnail": "thumbnails/office-avatars-044.webp"
+      }
+    },
+    {
+      "id": "office-045",
+      "filename": "office-avatars-045",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-045.png",
+        "preview": "preview/office-avatars-045.jpg",
+        "thumbnail": "thumbnails/office-avatars-045.webp"
+      }
+    },
+    {
+      "id": "office-046",
+      "filename": "office-avatars-046",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-046.png",
+        "preview": "preview/office-avatars-046.jpg",
+        "thumbnail": "thumbnails/office-avatars-046.webp"
+      }
+    },
+    {
+      "id": "office-047",
+      "filename": "office-avatars-047",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-047.png",
+        "preview": "preview/office-avatars-047.jpg",
+        "thumbnail": "thumbnails/office-avatars-047.webp"
+      }
+    },
+    {
+      "id": "office-048",
+      "filename": "office-avatars-048",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-048.png",
+        "preview": "preview/office-avatars-048.jpg",
+        "thumbnail": "thumbnails/office-avatars-048.webp"
+      }
+    },
+    {
+      "id": "office-049",
+      "filename": "office-avatars-049",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-049.png",
+        "preview": "preview/office-avatars-049.jpg",
+        "thumbnail": "thumbnails/office-avatars-049.webp"
+      }
+    },
+    {
+      "id": "office-050",
+      "filename": "office-avatars-050",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-050.png",
+        "preview": "preview/office-avatars-050.jpg",
+        "thumbnail": "thumbnails/office-avatars-050.webp"
+      }
+    },
+    {
+      "id": "office-051",
+      "filename": "office-avatars-051",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#686868"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-051.png",
+        "preview": "preview/office-avatars-051.jpg",
+        "thumbnail": "thumbnails/office-avatars-051.webp"
+      }
+    },
+    {
+      "id": "office-052",
+      "filename": "office-avatars-052",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-052.png",
+        "preview": "preview/office-avatars-052.jpg",
+        "thumbnail": "thumbnails/office-avatars-052.webp"
+      }
+    },
+    {
+      "id": "office-053",
+      "filename": "office-avatars-053",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-053.png",
+        "preview": "preview/office-avatars-053.jpg",
+        "thumbnail": "thumbnails/office-avatars-053.webp"
+      }
+    },
+    {
+      "id": "office-054",
+      "filename": "office-avatars-054",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-054.png",
+        "preview": "preview/office-avatars-054.jpg",
+        "thumbnail": "thumbnails/office-avatars-054.webp"
+      }
+    },
+    {
+      "id": "office-055",
+      "filename": "office-avatars-055",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-055.png",
+        "preview": "preview/office-avatars-055.jpg",
+        "thumbnail": "thumbnails/office-avatars-055.webp"
+      }
+    },
+    {
+      "id": "office-056",
+      "filename": "office-avatars-056",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-056.png",
+        "preview": "preview/office-avatars-056.jpg",
+        "thumbnail": "thumbnails/office-avatars-056.webp"
+      }
+    },
+    {
+      "id": "office-057",
+      "filename": "office-avatars-057",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-057.png",
+        "preview": "preview/office-avatars-057.jpg",
+        "thumbnail": "thumbnails/office-avatars-057.webp"
+      }
+    },
+    {
+      "id": "office-058",
+      "filename": "office-avatars-058",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-058.png",
+        "preview": "preview/office-avatars-058.jpg",
+        "thumbnail": "thumbnails/office-avatars-058.webp"
+      }
+    },
+    {
+      "id": "office-059",
+      "filename": "office-avatars-059",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-059.png",
+        "preview": "preview/office-avatars-059.jpg",
+        "thumbnail": "thumbnails/office-avatars-059.webp"
+      }
+    },
+    {
+      "id": "office-060",
+      "filename": "office-avatars-060",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-060.png",
+        "preview": "preview/office-avatars-060.jpg",
+        "thumbnail": "thumbnails/office-avatars-060.webp"
+      }
+    },
+    {
+      "id": "office-061",
+      "filename": "office-avatars-061",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-061.png",
+        "preview": "preview/office-avatars-061.jpg",
+        "thumbnail": "thumbnails/office-avatars-061.webp"
+      }
+    },
+    {
+      "id": "office-062",
+      "filename": "office-avatars-062",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-062.png",
+        "preview": "preview/office-avatars-062.jpg",
+        "thumbnail": "thumbnails/office-avatars-062.webp"
+      }
+    },
+    {
+      "id": "office-063",
+      "filename": "office-avatars-063",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-063.png",
+        "preview": "preview/office-avatars-063.jpg",
+        "thumbnail": "thumbnails/office-avatars-063.webp"
+      }
+    },
+    {
+      "id": "office-064",
+      "filename": "office-avatars-064",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-064.png",
+        "preview": "preview/office-avatars-064.jpg",
+        "thumbnail": "thumbnails/office-avatars-064.webp"
+      }
+    },
+    {
+      "id": "office-065",
+      "filename": "office-avatars-065",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-065.png",
+        "preview": "preview/office-avatars-065.jpg",
+        "thumbnail": "thumbnails/office-avatars-065.webp"
+      }
+    },
+    {
+      "id": "office-066",
+      "filename": "office-avatars-066",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-066.png",
+        "preview": "preview/office-avatars-066.jpg",
+        "thumbnail": "thumbnails/office-avatars-066.webp"
+      }
+    },
+    {
+      "id": "office-067",
+      "filename": "office-avatars-067",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-067.png",
+        "preview": "preview/office-avatars-067.jpg",
+        "thumbnail": "thumbnails/office-avatars-067.webp"
+      }
+    },
+    {
+      "id": "office-068",
+      "filename": "office-avatars-068",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-068.png",
+        "preview": "preview/office-avatars-068.jpg",
+        "thumbnail": "thumbnails/office-avatars-068.webp"
+      }
+    },
+    {
+      "id": "office-069",
+      "filename": "office-avatars-069",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-069.png",
+        "preview": "preview/office-avatars-069.jpg",
+        "thumbnail": "thumbnails/office-avatars-069.webp"
+      }
+    },
+    {
+      "id": "office-070",
+      "filename": "office-avatars-070",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-070.png",
+        "preview": "preview/office-avatars-070.jpg",
+        "thumbnail": "thumbnails/office-avatars-070.webp"
+      }
+    },
+    {
+      "id": "office-071",
+      "filename": "office-avatars-071",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-071.png",
+        "preview": "preview/office-avatars-071.jpg",
+        "thumbnail": "thumbnails/office-avatars-071.webp"
+      }
+    },
+    {
+      "id": "office-072",
+      "filename": "office-avatars-072",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-072.png",
+        "preview": "preview/office-avatars-072.jpg",
+        "thumbnail": "thumbnails/office-avatars-072.webp"
+      }
+    },
+    {
+      "id": "office-073",
+      "filename": "office-avatars-073",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-073.png",
+        "preview": "preview/office-avatars-073.jpg",
+        "thumbnail": "thumbnails/office-avatars-073.webp"
+      }
+    },
+    {
+      "id": "office-074",
+      "filename": "office-avatars-074",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-074.png",
+        "preview": "preview/office-avatars-074.jpg",
+        "thumbnail": "thumbnails/office-avatars-074.webp"
+      }
+    },
+    {
+      "id": "office-075",
+      "filename": "office-avatars-075",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-075.png",
+        "preview": "preview/office-avatars-075.jpg",
+        "thumbnail": "thumbnails/office-avatars-075.webp"
+      }
+    },
+    {
+      "id": "office-076",
+      "filename": "office-avatars-076",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-076.png",
+        "preview": "preview/office-avatars-076.jpg",
+        "thumbnail": "thumbnails/office-avatars-076.webp"
+      }
+    },
+    {
+      "id": "office-077",
+      "filename": "office-avatars-077",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-077.png",
+        "preview": "preview/office-avatars-077.jpg",
+        "thumbnail": "thumbnails/office-avatars-077.webp"
+      }
+    },
+    {
+      "id": "office-078",
+      "filename": "office-avatars-078",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-078.png",
+        "preview": "preview/office-avatars-078.jpg",
+        "thumbnail": "thumbnails/office-avatars-078.webp"
+      }
+    },
+    {
+      "id": "office-079",
+      "filename": "office-avatars-079",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-079.png",
+        "preview": "preview/office-avatars-079.jpg",
+        "thumbnail": "thumbnails/office-avatars-079.webp"
+      }
+    },
+    {
+      "id": "office-080",
+      "filename": "office-avatars-080",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-080.png",
+        "preview": "preview/office-avatars-080.jpg",
+        "thumbnail": "thumbnails/office-avatars-080.webp"
+      }
+    },
+    {
+      "id": "office-081",
+      "filename": "office-avatars-081",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-081.png",
+        "preview": "preview/office-avatars-081.jpg",
+        "thumbnail": "thumbnails/office-avatars-081.webp"
+      }
+    },
+    {
+      "id": "office-082",
+      "filename": "office-avatars-082",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-082.png",
+        "preview": "preview/office-avatars-082.jpg",
+        "thumbnail": "thumbnails/office-avatars-082.webp"
+      }
+    },
+    {
+      "id": "office-083",
+      "filename": "office-avatars-083",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-083.png",
+        "preview": "preview/office-avatars-083.jpg",
+        "thumbnail": "thumbnails/office-avatars-083.webp"
+      }
+    },
+    {
+      "id": "office-084",
+      "filename": "office-avatars-084",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-084.png",
+        "preview": "preview/office-avatars-084.jpg",
+        "thumbnail": "thumbnails/office-avatars-084.webp"
+      }
+    },
+    {
+      "id": "office-085",
+      "filename": "office-avatars-085",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#585858"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-085.png",
+        "preview": "preview/office-avatars-085.jpg",
+        "thumbnail": "thumbnails/office-avatars-085.webp"
+      }
+    },
+    {
+      "id": "office-086",
+      "filename": "office-avatars-086",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-086.png",
+        "preview": "preview/office-avatars-086.jpg",
+        "thumbnail": "thumbnails/office-avatars-086.webp"
+      }
+    },
+    {
+      "id": "office-087",
+      "filename": "office-avatars-087",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-087.png",
+        "preview": "preview/office-avatars-087.jpg",
+        "thumbnail": "thumbnails/office-avatars-087.webp"
+      }
+    },
+    {
+      "id": "office-088",
+      "filename": "office-avatars-088",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-088.png",
+        "preview": "preview/office-avatars-088.jpg",
+        "thumbnail": "thumbnails/office-avatars-088.webp"
+      }
+    },
+    {
+      "id": "office-089",
+      "filename": "office-avatars-089",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-089.png",
+        "preview": "preview/office-avatars-089.jpg",
+        "thumbnail": "thumbnails/office-avatars-089.webp"
+      }
+    },
+    {
+      "id": "office-090",
+      "filename": "office-avatars-090",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-090.png",
+        "preview": "preview/office-avatars-090.jpg",
+        "thumbnail": "thumbnails/office-avatars-090.webp"
+      }
+    },
+    {
+      "id": "office-091",
+      "filename": "office-avatars-091",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#484848"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-091.png",
+        "preview": "preview/office-avatars-091.jpg",
+        "thumbnail": "thumbnails/office-avatars-091.webp"
+      }
+    },
+    {
+      "id": "office-092",
+      "filename": "office-avatars-092",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-092.png",
+        "preview": "preview/office-avatars-092.jpg",
+        "thumbnail": "thumbnails/office-avatars-092.webp"
+      }
+    },
+    {
+      "id": "office-093",
+      "filename": "office-avatars-093",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-093.png",
+        "preview": "preview/office-avatars-093.jpg",
+        "thumbnail": "thumbnails/office-avatars-093.webp"
+      }
+    },
+    {
+      "id": "office-094",
+      "filename": "office-avatars-094",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-094.png",
+        "preview": "preview/office-avatars-094.jpg",
+        "thumbnail": "thumbnails/office-avatars-094.webp"
+      }
+    },
+    {
+      "id": "office-095",
+      "filename": "office-avatars-095",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-095.png",
+        "preview": "preview/office-avatars-095.jpg",
+        "thumbnail": "thumbnails/office-avatars-095.webp"
+      }
+    },
+    {
+      "id": "office-096",
+      "filename": "office-avatars-096",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-096.png",
+        "preview": "preview/office-avatars-096.jpg",
+        "thumbnail": "thumbnails/office-avatars-096.webp"
+      }
+    },
+    {
+      "id": "office-097",
+      "filename": "office-avatars-097",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-097.png",
+        "preview": "preview/office-avatars-097.jpg",
+        "thumbnail": "thumbnails/office-avatars-097.webp"
+      }
+    },
+    {
+      "id": "office-098",
+      "filename": "office-avatars-098",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#686868"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-098.png",
+        "preview": "preview/office-avatars-098.jpg",
+        "thumbnail": "thumbnails/office-avatars-098.webp"
+      }
+    },
+    {
+      "id": "office-099",
+      "filename": "office-avatars-099",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#282828"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-099.png",
+        "preview": "preview/office-avatars-099.jpg",
+        "thumbnail": "thumbnails/office-avatars-099.webp"
+      }
+    },
+    {
+      "id": "office-100",
+      "filename": "office-avatars-100",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/office-avatars-100.png",
+        "preview": "preview/office-avatars-100.jpg",
+        "thumbnail": "thumbnails/office-avatars-100.webp"
+      }
     }
-  ],
-  "_note": "Truncated to 3 samples. Full file contains all 72 avatar entries following the same schema."
+  ]
 }

@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "author": "UI Faces",
   "website": "https://uifaces.co",
-  "updated": "2026-08-30",
-  "total_avatars": 700,
+  "updated": "2026-09-01",
+  "total_avatars": 800,
   "resolution": "4096x4096",
   "formats": [
     "png",
@@ -13,6 +13,25 @@
   ],
   "color_space": "sRGB",
   "collections": [
+    {
+      "id": "office-avatars",
+      "name": "Office Avatars",
+      "slug": "office-avatars",
+      "count": 100,
+      "style": "photorealistic",
+      "description": "72 realistic office avatars featuring authentic workplace moments. Perfect for SaaS mockups, team directories, dashboards, and business software.",
+      "tags": [
+        "professional",
+        "corporate",
+        "workplace",
+        "headshot",
+        "business"
+      ],
+      "price": 12,
+      "licenses_total": 100,
+      "licenses_remaining": 100,
+      "path": "collections/office-avatars"
+    },
     {
       "id": "company-avatars",
       "name": "Company Avatars",
