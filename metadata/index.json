@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "author": "UI Faces",
   "website": "https://uifaces.co",
-  "updated": "2026-09-01",
-  "total_avatars": 800,
+  "updated": "2026-09-03",
+  "total_avatars": 900,
   "resolution": "4096x4096",
   "formats": [
     "png",
@@ -31,6 +31,25 @@
       "licenses_total": 100,
       "licenses_remaining": 100,
       "path": "collections/office-avatars"
+    },
+    {
+      "id": "everyday-avatars",
+      "name": "Everyday Avatars",
+      "slug": "everyday-avatars",
+      "count": 100,
+      "style": "photorealistic",
+      "description": "45 realistic everyday avatars of ordinary people. Perfect for product mockups, profiles, communities, and believable user interfaces.",
+      "tags": [
+        "casual",
+        "lifestyle",
+        "authentic",
+        "natural",
+        "warm"
+      ],
+      "price": 12,
+      "licenses_total": 100,
+      "licenses_remaining": 100,
+      "path": "collections/everyday-avatars"
     },
     {
       "id": "company-avatars",
