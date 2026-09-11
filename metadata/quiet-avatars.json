@@ -24,8 +24,8 @@
     "currency": "USD",
     "licenses_total": 100,
     "licenses_remaining": 100,
-    "created": "2026-09-03",
-    "updated": "2026-09-03"
+    "created": "2026-09-11",
+    "updated": "2026-09-11"
   },
   "avatars": [
     {
@@ -37,7 +37,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#a8d8a8"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-001.png",
@@ -54,7 +54,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-002.png",
@@ -71,7 +71,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-003.png",
@@ -88,7 +88,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-004.png",
@@ -105,7 +105,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#c8d8a8"
+        "#f8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-005.png",
@@ -122,7 +122,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8a888"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-006.png",
@@ -139,7 +139,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#a8d8a8"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-007.png",
@@ -156,7 +156,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#c888d8"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-008.png",
@@ -173,7 +173,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#c888d8"
+        "#f8d8c8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-009.png",
@@ -190,7 +190,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-010.png",
@@ -207,7 +207,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-011.png",
@@ -224,7 +224,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-012.png",
@@ -241,7 +241,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-013.png",
@@ -258,7 +258,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#68b8f8"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-014.png",
@@ -275,7 +275,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78c8c8"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-015.png",
@@ -292,7 +292,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-016.png",
@@ -309,7 +309,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8f898"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-017.png",
@@ -326,7 +326,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-018.png",
@@ -343,7 +343,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-019.png",
@@ -360,7 +360,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8f8"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-020.png",
@@ -377,7 +377,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8e8"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-021.png",
@@ -394,7 +394,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#a8d8a8"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-022.png",
@@ -411,7 +411,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-023.png",
@@ -428,7 +428,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-024.png",
@@ -445,7 +445,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-025.png",
@@ -462,7 +462,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-026.png",
@@ -479,7 +479,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-027.png",
@@ -496,7 +496,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-028.png",
@@ -513,7 +513,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8d878"
+        "#f8d8c8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-029.png",
@@ -530,7 +530,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#e89898"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-030.png",
@@ -547,7 +547,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-031.png",
@@ -564,7 +564,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-032.png",
@@ -581,7 +581,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-033.png",
@@ -598,7 +598,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78c8c8"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-034.png",
@@ -615,7 +615,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#c888d8"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-035.png",
@@ -632,7 +632,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-036.png",
@@ -649,7 +649,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-037.png",
@@ -666,7 +666,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-038.png",
@@ -683,7 +683,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-039.png",
@@ -700,7 +700,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-040.png",
@@ -717,7 +717,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#c8d8a8"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-041.png",
@@ -734,7 +734,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#e8e898"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-042.png",
@@ -751,7 +751,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-043.png",
@@ -768,7 +768,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-044.png",
@@ -785,7 +785,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-045.png",
@@ -802,7 +802,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-046.png",
@@ -819,7 +819,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-047.png",
@@ -836,7 +836,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-048.png",
@@ -853,7 +853,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#a8d8a8"
+        "#f8d8c8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-049.png",
@@ -870,7 +870,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-050.png",
@@ -887,7 +887,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8f8"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-051.png",
@@ -904,7 +904,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8d878"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-052.png",
@@ -921,7 +921,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-053.png",
@@ -938,7 +938,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-054.png",
@@ -955,7 +955,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-055.png",
@@ -972,7 +972,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8e8"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-056.png",
@@ -989,7 +989,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8d878"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-057.png",
@@ -1006,7 +1006,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-058.png",
@@ -1023,7 +1023,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-059.png",
@@ -1040,7 +1040,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-060.png",
@@ -1057,7 +1057,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#88c8f8"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-061.png",
@@ -1074,7 +1074,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-062.png",
@@ -1091,7 +1091,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-063.png",
@@ -1108,7 +1108,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#a898d8"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-064.png",
@@ -1125,7 +1125,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-065.png",
@@ -1142,7 +1142,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-066.png",
@@ -1159,7 +1159,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-067.png",
@@ -1176,7 +1176,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f888a8"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-068.png",
@@ -1193,7 +1193,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8c8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-069.png",
@@ -1210,7 +1210,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8e8"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-070.png",
@@ -1227,7 +1227,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-071.png",
@@ -1244,7 +1244,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#c888d8"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-072.png",
@@ -1261,7 +1261,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-073.png",
@@ -1278,7 +1278,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8f8"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-074.png",
@@ -1295,7 +1295,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-075.png",
@@ -1312,7 +1312,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-076.png",
@@ -1329,7 +1329,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-077.png",
@@ -1346,7 +1346,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-078.png",
@@ -1363,7 +1363,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-079.png",
@@ -1380,7 +1380,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-080.png",
@@ -1397,7 +1397,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-081.png",
@@ -1414,7 +1414,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-082.png",
@@ -1431,7 +1431,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-083.png",
@@ -1448,7 +1448,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8f898"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-084.png",
@@ -1465,7 +1465,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#98a8d8"
+        "#f8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-085.png",
@@ -1482,7 +1482,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8f898"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-086.png",
@@ -1499,7 +1499,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-087.png",
@@ -1516,7 +1516,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-088.png",
@@ -1533,7 +1533,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8c878"
+        "#f8d8c8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-089.png",
@@ -1550,7 +1550,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#78d8e8"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-090.png",
@@ -1567,7 +1567,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-091.png",
@@ -1584,7 +1584,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#98a8d8"
+        "#d8e8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-092.png",
@@ -1601,7 +1601,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-093.png",
@@ -1618,7 +1618,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-094.png",
@@ -1635,7 +1635,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#d8f8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-095.png",
@@ -1652,7 +1652,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8f8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-096.png",
@@ -1669,7 +1669,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#f8d8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-097.png",
@@ -1686,7 +1686,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#e8e898"
+        "#d8f8e8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-098.png",
@@ -1703,7 +1703,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#080808"
+        "#e8d8d8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-099.png",
@@ -1720,7 +1720,7 @@
         "minimal"
       ],
       "dominant_colors": [
-        "#f8a888"
+        "#d8e8f8"
       ],
       "files": {
         "4k": "4k/quiet-avatars-100.png",
