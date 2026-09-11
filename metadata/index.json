@@ -4,7 +4,7 @@
   "author": "UI Faces",
   "website": "https://uifaces.co",
   "updated": "2026-09-11",
-  "total_avatars": 900,
+  "total_avatars": 1098,
   "resolution": "4096x4096",
   "formats": [
     "png",
@@ -171,7 +171,7 @@
       "slug": "quiet-avatars",
       "count": 100,
       "style": "minimal-abstract",
-      "description": "30 subtle abstract avatars for calm, low-distraction placeholders. Perfect for dashboards, CRM tables, comments, and serious mockups.",
+      "description": "100 subtle line-art icons on pastel backgrounds for calm, low-distraction placeholders. Perfect for dashboards, CRM tables, comments, and serious mockups.",
       "tags": [
         "quiet",
         "subtle",
@@ -183,6 +183,44 @@
       "licenses_total": 100,
       "licenses_remaining": 100,
       "path": "collections/quiet-avatars"
+    },
+    {
+      "id": "memoji-avatars",
+      "name": "Memoji Avatars",
+      "slug": "memoji-avatars",
+      "count": 98,
+      "style": "3d-cartoon",
+      "description": "98 expressive 3D cartoon character avatars with diverse styles. Perfect for chat apps, social profiles, onboarding, and playful product mockups.",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon",
+        "expressive",
+        "character"
+      ],
+      "price": 12,
+      "licenses_total": 100,
+      "licenses_remaining": 100,
+      "path": "collections/memoji-avatars"
+    },
+    {
+      "id": "cyber-avatars",
+      "name": "Cyber Avatars",
+      "slug": "cyber-avatars",
+      "count": 100,
+      "style": "geometric-robot",
+      "description": "100 sci-fi robot avatars with metallic heads, LED eyes, and antennas. Perfect for tech products, AI features, bot profiles, and futuristic mockups.",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi",
+        "tech",
+        "bot"
+      ],
+      "price": 6,
+      "licenses_total": 100,
+      "licenses_remaining": 100,
+      "path": "collections/cyber-avatars"
     }
   ]
 }

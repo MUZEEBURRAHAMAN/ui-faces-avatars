@@ -1,0 +1,1732 @@
+{
+  "collection": {
+    "id": "cyber-avatars",
+    "name": "Cyber Avatars",
+    "version": "1.0.0",
+    "count": 100,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "geometric-robot",
+    "description": "100 sci-fi robot avatars with metallic heads, LED eyes, and antennas. Perfect for tech products, AI features, bot profiles, and futuristic mockups.",
+    "tags": [
+      "robot",
+      "cyber",
+      "sci-fi",
+      "tech",
+      "bot"
+    ],
+    "price": 6,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-09-11",
+    "updated": "2026-09-11"
+  },
+  "avatars": [
+    {
+      "id": "cyber-001",
+      "filename": "cyber-avatars-001",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-001.png",
+        "preview": "preview/cyber-avatars-001.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-001.webp"
+      }
+    },
+    {
+      "id": "cyber-002",
+      "filename": "cyber-avatars-002",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-002.png",
+        "preview": "preview/cyber-avatars-002.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-002.webp"
+      }
+    },
+    {
+      "id": "cyber-003",
+      "filename": "cyber-avatars-003",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-003.png",
+        "preview": "preview/cyber-avatars-003.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-003.webp"
+      }
+    },
+    {
+      "id": "cyber-004",
+      "filename": "cyber-avatars-004",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-004.png",
+        "preview": "preview/cyber-avatars-004.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-004.webp"
+      }
+    },
+    {
+      "id": "cyber-005",
+      "filename": "cyber-avatars-005",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#a8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-005.png",
+        "preview": "preview/cyber-avatars-005.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-005.webp"
+      }
+    },
+    {
+      "id": "cyber-006",
+      "filename": "cyber-avatars-006",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-006.png",
+        "preview": "preview/cyber-avatars-006.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-006.webp"
+      }
+    },
+    {
+      "id": "cyber-007",
+      "filename": "cyber-avatars-007",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-007.png",
+        "preview": "preview/cyber-avatars-007.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-007.webp"
+      }
+    },
+    {
+      "id": "cyber-008",
+      "filename": "cyber-avatars-008",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8d8a8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-008.png",
+        "preview": "preview/cyber-avatars-008.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-008.webp"
+      }
+    },
+    {
+      "id": "cyber-009",
+      "filename": "cyber-avatars-009",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-009.png",
+        "preview": "preview/cyber-avatars-009.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-009.webp"
+      }
+    },
+    {
+      "id": "cyber-010",
+      "filename": "cyber-avatars-010",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-010.png",
+        "preview": "preview/cyber-avatars-010.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-010.webp"
+      }
+    },
+    {
+      "id": "cyber-011",
+      "filename": "cyber-avatars-011",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8f8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-011.png",
+        "preview": "preview/cyber-avatars-011.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-011.webp"
+      }
+    },
+    {
+      "id": "cyber-012",
+      "filename": "cyber-avatars-012",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-012.png",
+        "preview": "preview/cyber-avatars-012.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-012.webp"
+      }
+    },
+    {
+      "id": "cyber-013",
+      "filename": "cyber-avatars-013",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-013.png",
+        "preview": "preview/cyber-avatars-013.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-013.webp"
+      }
+    },
+    {
+      "id": "cyber-014",
+      "filename": "cyber-avatars-014",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-014.png",
+        "preview": "preview/cyber-avatars-014.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-014.webp"
+      }
+    },
+    {
+      "id": "cyber-015",
+      "filename": "cyber-avatars-015",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-015.png",
+        "preview": "preview/cyber-avatars-015.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-015.webp"
+      }
+    },
+    {
+      "id": "cyber-016",
+      "filename": "cyber-avatars-016",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-016.png",
+        "preview": "preview/cyber-avatars-016.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-016.webp"
+      }
+    },
+    {
+      "id": "cyber-017",
+      "filename": "cyber-avatars-017",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-017.png",
+        "preview": "preview/cyber-avatars-017.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-017.webp"
+      }
+    },
+    {
+      "id": "cyber-018",
+      "filename": "cyber-avatars-018",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-018.png",
+        "preview": "preview/cyber-avatars-018.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-018.webp"
+      }
+    },
+    {
+      "id": "cyber-019",
+      "filename": "cyber-avatars-019",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-019.png",
+        "preview": "preview/cyber-avatars-019.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-019.webp"
+      }
+    },
+    {
+      "id": "cyber-020",
+      "filename": "cyber-avatars-020",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-020.png",
+        "preview": "preview/cyber-avatars-020.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-020.webp"
+      }
+    },
+    {
+      "id": "cyber-021",
+      "filename": "cyber-avatars-021",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-021.png",
+        "preview": "preview/cyber-avatars-021.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-021.webp"
+      }
+    },
+    {
+      "id": "cyber-022",
+      "filename": "cyber-avatars-022",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-022.png",
+        "preview": "preview/cyber-avatars-022.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-022.webp"
+      }
+    },
+    {
+      "id": "cyber-023",
+      "filename": "cyber-avatars-023",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-023.png",
+        "preview": "preview/cyber-avatars-023.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-023.webp"
+      }
+    },
+    {
+      "id": "cyber-024",
+      "filename": "cyber-avatars-024",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-024.png",
+        "preview": "preview/cyber-avatars-024.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-024.webp"
+      }
+    },
+    {
+      "id": "cyber-025",
+      "filename": "cyber-avatars-025",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#a8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-025.png",
+        "preview": "preview/cyber-avatars-025.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-025.webp"
+      }
+    },
+    {
+      "id": "cyber-026",
+      "filename": "cyber-avatars-026",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-026.png",
+        "preview": "preview/cyber-avatars-026.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-026.webp"
+      }
+    },
+    {
+      "id": "cyber-027",
+      "filename": "cyber-avatars-027",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-027.png",
+        "preview": "preview/cyber-avatars-027.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-027.webp"
+      }
+    },
+    {
+      "id": "cyber-028",
+      "filename": "cyber-avatars-028",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8d8a8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-028.png",
+        "preview": "preview/cyber-avatars-028.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-028.webp"
+      }
+    },
+    {
+      "id": "cyber-029",
+      "filename": "cyber-avatars-029",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-029.png",
+        "preview": "preview/cyber-avatars-029.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-029.webp"
+      }
+    },
+    {
+      "id": "cyber-030",
+      "filename": "cyber-avatars-030",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-030.png",
+        "preview": "preview/cyber-avatars-030.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-030.webp"
+      }
+    },
+    {
+      "id": "cyber-031",
+      "filename": "cyber-avatars-031",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8f8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-031.png",
+        "preview": "preview/cyber-avatars-031.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-031.webp"
+      }
+    },
+    {
+      "id": "cyber-032",
+      "filename": "cyber-avatars-032",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-032.png",
+        "preview": "preview/cyber-avatars-032.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-032.webp"
+      }
+    },
+    {
+      "id": "cyber-033",
+      "filename": "cyber-avatars-033",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-033.png",
+        "preview": "preview/cyber-avatars-033.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-033.webp"
+      }
+    },
+    {
+      "id": "cyber-034",
+      "filename": "cyber-avatars-034",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-034.png",
+        "preview": "preview/cyber-avatars-034.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-034.webp"
+      }
+    },
+    {
+      "id": "cyber-035",
+      "filename": "cyber-avatars-035",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-035.png",
+        "preview": "preview/cyber-avatars-035.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-035.webp"
+      }
+    },
+    {
+      "id": "cyber-036",
+      "filename": "cyber-avatars-036",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-036.png",
+        "preview": "preview/cyber-avatars-036.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-036.webp"
+      }
+    },
+    {
+      "id": "cyber-037",
+      "filename": "cyber-avatars-037",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-037.png",
+        "preview": "preview/cyber-avatars-037.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-037.webp"
+      }
+    },
+    {
+      "id": "cyber-038",
+      "filename": "cyber-avatars-038",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-038.png",
+        "preview": "preview/cyber-avatars-038.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-038.webp"
+      }
+    },
+    {
+      "id": "cyber-039",
+      "filename": "cyber-avatars-039",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-039.png",
+        "preview": "preview/cyber-avatars-039.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-039.webp"
+      }
+    },
+    {
+      "id": "cyber-040",
+      "filename": "cyber-avatars-040",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-040.png",
+        "preview": "preview/cyber-avatars-040.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-040.webp"
+      }
+    },
+    {
+      "id": "cyber-041",
+      "filename": "cyber-avatars-041",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-041.png",
+        "preview": "preview/cyber-avatars-041.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-041.webp"
+      }
+    },
+    {
+      "id": "cyber-042",
+      "filename": "cyber-avatars-042",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-042.png",
+        "preview": "preview/cyber-avatars-042.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-042.webp"
+      }
+    },
+    {
+      "id": "cyber-043",
+      "filename": "cyber-avatars-043",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-043.png",
+        "preview": "preview/cyber-avatars-043.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-043.webp"
+      }
+    },
+    {
+      "id": "cyber-044",
+      "filename": "cyber-avatars-044",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-044.png",
+        "preview": "preview/cyber-avatars-044.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-044.webp"
+      }
+    },
+    {
+      "id": "cyber-045",
+      "filename": "cyber-avatars-045",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#a8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-045.png",
+        "preview": "preview/cyber-avatars-045.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-045.webp"
+      }
+    },
+    {
+      "id": "cyber-046",
+      "filename": "cyber-avatars-046",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-046.png",
+        "preview": "preview/cyber-avatars-046.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-046.webp"
+      }
+    },
+    {
+      "id": "cyber-047",
+      "filename": "cyber-avatars-047",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-047.png",
+        "preview": "preview/cyber-avatars-047.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-047.webp"
+      }
+    },
+    {
+      "id": "cyber-048",
+      "filename": "cyber-avatars-048",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8d8a8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-048.png",
+        "preview": "preview/cyber-avatars-048.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-048.webp"
+      }
+    },
+    {
+      "id": "cyber-049",
+      "filename": "cyber-avatars-049",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-049.png",
+        "preview": "preview/cyber-avatars-049.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-049.webp"
+      }
+    },
+    {
+      "id": "cyber-050",
+      "filename": "cyber-avatars-050",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-050.png",
+        "preview": "preview/cyber-avatars-050.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-050.webp"
+      }
+    },
+    {
+      "id": "cyber-051",
+      "filename": "cyber-avatars-051",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8f8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-051.png",
+        "preview": "preview/cyber-avatars-051.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-051.webp"
+      }
+    },
+    {
+      "id": "cyber-052",
+      "filename": "cyber-avatars-052",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-052.png",
+        "preview": "preview/cyber-avatars-052.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-052.webp"
+      }
+    },
+    {
+      "id": "cyber-053",
+      "filename": "cyber-avatars-053",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-053.png",
+        "preview": "preview/cyber-avatars-053.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-053.webp"
+      }
+    },
+    {
+      "id": "cyber-054",
+      "filename": "cyber-avatars-054",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-054.png",
+        "preview": "preview/cyber-avatars-054.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-054.webp"
+      }
+    },
+    {
+      "id": "cyber-055",
+      "filename": "cyber-avatars-055",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-055.png",
+        "preview": "preview/cyber-avatars-055.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-055.webp"
+      }
+    },
+    {
+      "id": "cyber-056",
+      "filename": "cyber-avatars-056",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-056.png",
+        "preview": "preview/cyber-avatars-056.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-056.webp"
+      }
+    },
+    {
+      "id": "cyber-057",
+      "filename": "cyber-avatars-057",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-057.png",
+        "preview": "preview/cyber-avatars-057.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-057.webp"
+      }
+    },
+    {
+      "id": "cyber-058",
+      "filename": "cyber-avatars-058",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-058.png",
+        "preview": "preview/cyber-avatars-058.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-058.webp"
+      }
+    },
+    {
+      "id": "cyber-059",
+      "filename": "cyber-avatars-059",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-059.png",
+        "preview": "preview/cyber-avatars-059.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-059.webp"
+      }
+    },
+    {
+      "id": "cyber-060",
+      "filename": "cyber-avatars-060",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-060.png",
+        "preview": "preview/cyber-avatars-060.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-060.webp"
+      }
+    },
+    {
+      "id": "cyber-061",
+      "filename": "cyber-avatars-061",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-061.png",
+        "preview": "preview/cyber-avatars-061.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-061.webp"
+      }
+    },
+    {
+      "id": "cyber-062",
+      "filename": "cyber-avatars-062",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-062.png",
+        "preview": "preview/cyber-avatars-062.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-062.webp"
+      }
+    },
+    {
+      "id": "cyber-063",
+      "filename": "cyber-avatars-063",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-063.png",
+        "preview": "preview/cyber-avatars-063.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-063.webp"
+      }
+    },
+    {
+      "id": "cyber-064",
+      "filename": "cyber-avatars-064",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-064.png",
+        "preview": "preview/cyber-avatars-064.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-064.webp"
+      }
+    },
+    {
+      "id": "cyber-065",
+      "filename": "cyber-avatars-065",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#a8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-065.png",
+        "preview": "preview/cyber-avatars-065.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-065.webp"
+      }
+    },
+    {
+      "id": "cyber-066",
+      "filename": "cyber-avatars-066",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-066.png",
+        "preview": "preview/cyber-avatars-066.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-066.webp"
+      }
+    },
+    {
+      "id": "cyber-067",
+      "filename": "cyber-avatars-067",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-067.png",
+        "preview": "preview/cyber-avatars-067.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-067.webp"
+      }
+    },
+    {
+      "id": "cyber-068",
+      "filename": "cyber-avatars-068",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8d8a8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-068.png",
+        "preview": "preview/cyber-avatars-068.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-068.webp"
+      }
+    },
+    {
+      "id": "cyber-069",
+      "filename": "cyber-avatars-069",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-069.png",
+        "preview": "preview/cyber-avatars-069.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-069.webp"
+      }
+    },
+    {
+      "id": "cyber-070",
+      "filename": "cyber-avatars-070",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-070.png",
+        "preview": "preview/cyber-avatars-070.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-070.webp"
+      }
+    },
+    {
+      "id": "cyber-071",
+      "filename": "cyber-avatars-071",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8f8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-071.png",
+        "preview": "preview/cyber-avatars-071.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-071.webp"
+      }
+    },
+    {
+      "id": "cyber-072",
+      "filename": "cyber-avatars-072",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-072.png",
+        "preview": "preview/cyber-avatars-072.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-072.webp"
+      }
+    },
+    {
+      "id": "cyber-073",
+      "filename": "cyber-avatars-073",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-073.png",
+        "preview": "preview/cyber-avatars-073.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-073.webp"
+      }
+    },
+    {
+      "id": "cyber-074",
+      "filename": "cyber-avatars-074",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-074.png",
+        "preview": "preview/cyber-avatars-074.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-074.webp"
+      }
+    },
+    {
+      "id": "cyber-075",
+      "filename": "cyber-avatars-075",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-075.png",
+        "preview": "preview/cyber-avatars-075.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-075.webp"
+      }
+    },
+    {
+      "id": "cyber-076",
+      "filename": "cyber-avatars-076",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-076.png",
+        "preview": "preview/cyber-avatars-076.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-076.webp"
+      }
+    },
+    {
+      "id": "cyber-077",
+      "filename": "cyber-avatars-077",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-077.png",
+        "preview": "preview/cyber-avatars-077.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-077.webp"
+      }
+    },
+    {
+      "id": "cyber-078",
+      "filename": "cyber-avatars-078",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-078.png",
+        "preview": "preview/cyber-avatars-078.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-078.webp"
+      }
+    },
+    {
+      "id": "cyber-079",
+      "filename": "cyber-avatars-079",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-079.png",
+        "preview": "preview/cyber-avatars-079.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-079.webp"
+      }
+    },
+    {
+      "id": "cyber-080",
+      "filename": "cyber-avatars-080",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-080.png",
+        "preview": "preview/cyber-avatars-080.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-080.webp"
+      }
+    },
+    {
+      "id": "cyber-081",
+      "filename": "cyber-avatars-081",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-081.png",
+        "preview": "preview/cyber-avatars-081.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-081.webp"
+      }
+    },
+    {
+      "id": "cyber-082",
+      "filename": "cyber-avatars-082",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-082.png",
+        "preview": "preview/cyber-avatars-082.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-082.webp"
+      }
+    },
+    {
+      "id": "cyber-083",
+      "filename": "cyber-avatars-083",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-083.png",
+        "preview": "preview/cyber-avatars-083.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-083.webp"
+      }
+    },
+    {
+      "id": "cyber-084",
+      "filename": "cyber-avatars-084",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-084.png",
+        "preview": "preview/cyber-avatars-084.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-084.webp"
+      }
+    },
+    {
+      "id": "cyber-085",
+      "filename": "cyber-avatars-085",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#a8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-085.png",
+        "preview": "preview/cyber-avatars-085.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-085.webp"
+      }
+    },
+    {
+      "id": "cyber-086",
+      "filename": "cyber-avatars-086",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#b8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-086.png",
+        "preview": "preview/cyber-avatars-086.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-086.webp"
+      }
+    },
+    {
+      "id": "cyber-087",
+      "filename": "cyber-avatars-087",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-087.png",
+        "preview": "preview/cyber-avatars-087.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-087.webp"
+      }
+    },
+    {
+      "id": "cyber-088",
+      "filename": "cyber-avatars-088",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8d8a8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-088.png",
+        "preview": "preview/cyber-avatars-088.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-088.webp"
+      }
+    },
+    {
+      "id": "cyber-089",
+      "filename": "cyber-avatars-089",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8c8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-089.png",
+        "preview": "preview/cyber-avatars-089.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-089.webp"
+      }
+    },
+    {
+      "id": "cyber-090",
+      "filename": "cyber-avatars-090",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8d8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-090.png",
+        "preview": "preview/cyber-avatars-090.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-090.webp"
+      }
+    },
+    {
+      "id": "cyber-091",
+      "filename": "cyber-avatars-091",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8f8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-091.png",
+        "preview": "preview/cyber-avatars-091.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-091.webp"
+      }
+    },
+    {
+      "id": "cyber-092",
+      "filename": "cyber-avatars-092",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-092.png",
+        "preview": "preview/cyber-avatars-092.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-092.webp"
+      }
+    },
+    {
+      "id": "cyber-093",
+      "filename": "cyber-avatars-093",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-093.png",
+        "preview": "preview/cyber-avatars-093.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-093.webp"
+      }
+    },
+    {
+      "id": "cyber-094",
+      "filename": "cyber-avatars-094",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8e8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-094.png",
+        "preview": "preview/cyber-avatars-094.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-094.webp"
+      }
+    },
+    {
+      "id": "cyber-095",
+      "filename": "cyber-avatars-095",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-095.png",
+        "preview": "preview/cyber-avatars-095.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-095.webp"
+      }
+    },
+    {
+      "id": "cyber-096",
+      "filename": "cyber-avatars-096",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#d8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-096.png",
+        "preview": "preview/cyber-avatars-096.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-096.webp"
+      }
+    },
+    {
+      "id": "cyber-097",
+      "filename": "cyber-avatars-097",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-097.png",
+        "preview": "preview/cyber-avatars-097.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-097.webp"
+      }
+    },
+    {
+      "id": "cyber-098",
+      "filename": "cyber-avatars-098",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#c8f8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-098.png",
+        "preview": "preview/cyber-avatars-098.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-098.webp"
+      }
+    },
+    {
+      "id": "cyber-099",
+      "filename": "cyber-avatars-099",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#f8e8f8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-099.png",
+        "preview": "preview/cyber-avatars-099.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-099.webp"
+      }
+    },
+    {
+      "id": "cyber-100",
+      "filename": "cyber-avatars-100",
+      "tags": [
+        "robot",
+        "cyber",
+        "sci-fi"
+      ],
+      "dominant_colors": [
+        "#e8f8c8"
+      ],
+      "files": {
+        "4k": "4k/cyber-avatars-100.png",
+        "preview": "preview/cyber-avatars-100.jpg",
+        "thumbnail": "thumbnails/cyber-avatars-100.webp"
+      }
+    }
+  ]
+}

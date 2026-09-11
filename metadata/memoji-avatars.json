@@ -1,0 +1,1698 @@
+{
+  "collection": {
+    "id": "memoji-avatars",
+    "name": "Memoji Avatars",
+    "version": "1.0.0",
+    "count": 98,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "3d-cartoon",
+    "description": "98 expressive 3D cartoon character avatars with diverse styles. Perfect for chat apps, social profiles, onboarding, and playful product mockups.",
+    "tags": [
+      "memoji",
+      "3d",
+      "cartoon",
+      "expressive",
+      "character"
+    ],
+    "price": 12,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-09-11",
+    "updated": "2026-09-11"
+  },
+  "avatars": [
+    {
+      "id": "memoji-001",
+      "filename": "memoji-avatars-001",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8c878"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-001.png",
+        "preview": "preview/memoji-avatars-001.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-001.webp"
+      }
+    },
+    {
+      "id": "memoji-002",
+      "filename": "memoji-avatars-002",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#78a8d8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-002.png",
+        "preview": "preview/memoji-avatars-002.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-002.webp"
+      }
+    },
+    {
+      "id": "memoji-003",
+      "filename": "memoji-avatars-003",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8e8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-003.png",
+        "preview": "preview/memoji-avatars-003.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-003.webp"
+      }
+    },
+    {
+      "id": "memoji-004",
+      "filename": "memoji-avatars-004",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#c8a8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-004.png",
+        "preview": "preview/memoji-avatars-004.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-004.webp"
+      }
+    },
+    {
+      "id": "memoji-005",
+      "filename": "memoji-avatars-005",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#c8c8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-005.png",
+        "preview": "preview/memoji-avatars-005.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-005.webp"
+      }
+    },
+    {
+      "id": "memoji-006",
+      "filename": "memoji-avatars-006",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98a878"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-006.png",
+        "preview": "preview/memoji-avatars-006.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-006.webp"
+      }
+    },
+    {
+      "id": "memoji-007",
+      "filename": "memoji-avatars-007",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#d89888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-007.png",
+        "preview": "preview/memoji-avatars-007.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-007.webp"
+      }
+    },
+    {
+      "id": "memoji-008",
+      "filename": "memoji-avatars-008",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8c858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-008.png",
+        "preview": "preview/memoji-avatars-008.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-008.webp"
+      }
+    },
+    {
+      "id": "memoji-009",
+      "filename": "memoji-avatars-009",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98a888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-009.png",
+        "preview": "preview/memoji-avatars-009.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-009.webp"
+      }
+    },
+    {
+      "id": "memoji-010",
+      "filename": "memoji-avatars-010",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#383838"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-010.png",
+        "preview": "preview/memoji-avatars-010.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-010.webp"
+      }
+    },
+    {
+      "id": "memoji-011",
+      "filename": "memoji-avatars-011",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#88b8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-011.png",
+        "preview": "preview/memoji-avatars-011.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-011.webp"
+      }
+    },
+    {
+      "id": "memoji-012",
+      "filename": "memoji-avatars-012",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#68a8d8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-012.png",
+        "preview": "preview/memoji-avatars-012.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-012.webp"
+      }
+    },
+    {
+      "id": "memoji-013",
+      "filename": "memoji-avatars-013",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#88b8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-013.png",
+        "preview": "preview/memoji-avatars-013.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-013.webp"
+      }
+    },
+    {
+      "id": "memoji-014",
+      "filename": "memoji-avatars-014",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#68a8d8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-014.png",
+        "preview": "preview/memoji-avatars-014.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-014.webp"
+      }
+    },
+    {
+      "id": "memoji-015",
+      "filename": "memoji-avatars-015",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#d8b878"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-015.png",
+        "preview": "preview/memoji-avatars-015.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-015.webp"
+      }
+    },
+    {
+      "id": "memoji-016",
+      "filename": "memoji-avatars-016",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8a898"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-016.png",
+        "preview": "preview/memoji-avatars-016.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-016.webp"
+      }
+    },
+    {
+      "id": "memoji-017",
+      "filename": "memoji-avatars-017",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-017.png",
+        "preview": "preview/memoji-avatars-017.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-017.webp"
+      }
+    },
+    {
+      "id": "memoji-018",
+      "filename": "memoji-avatars-018",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#d8b8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-018.png",
+        "preview": "preview/memoji-avatars-018.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-018.webp"
+      }
+    },
+    {
+      "id": "memoji-019",
+      "filename": "memoji-avatars-019",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-019.png",
+        "preview": "preview/memoji-avatars-019.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-019.webp"
+      }
+    },
+    {
+      "id": "memoji-020",
+      "filename": "memoji-avatars-020",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8a8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-020.png",
+        "preview": "preview/memoji-avatars-020.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-020.webp"
+      }
+    },
+    {
+      "id": "memoji-021",
+      "filename": "memoji-avatars-021",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98b8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-021.png",
+        "preview": "preview/memoji-avatars-021.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-021.webp"
+      }
+    },
+    {
+      "id": "memoji-022",
+      "filename": "memoji-avatars-022",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-022.png",
+        "preview": "preview/memoji-avatars-022.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-022.webp"
+      }
+    },
+    {
+      "id": "memoji-023",
+      "filename": "memoji-avatars-023",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#b8e8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-023.png",
+        "preview": "preview/memoji-avatars-023.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-023.webp"
+      }
+    },
+    {
+      "id": "memoji-024",
+      "filename": "memoji-avatars-024",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#d8c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-024.png",
+        "preview": "preview/memoji-avatars-024.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-024.webp"
+      }
+    },
+    {
+      "id": "memoji-025",
+      "filename": "memoji-avatars-025",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8a868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-025.png",
+        "preview": "preview/memoji-avatars-025.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-025.webp"
+      }
+    },
+    {
+      "id": "memoji-026",
+      "filename": "memoji-avatars-026",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8a858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-026.png",
+        "preview": "preview/memoji-avatars-026.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-026.webp"
+      }
+    },
+    {
+      "id": "memoji-027",
+      "filename": "memoji-avatars-027",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8d8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-027.png",
+        "preview": "preview/memoji-avatars-027.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-027.webp"
+      }
+    },
+    {
+      "id": "memoji-028",
+      "filename": "memoji-avatars-028",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98d8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-028.png",
+        "preview": "preview/memoji-avatars-028.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-028.webp"
+      }
+    },
+    {
+      "id": "memoji-029",
+      "filename": "memoji-avatars-029",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-029.png",
+        "preview": "preview/memoji-avatars-029.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-029.webp"
+      }
+    },
+    {
+      "id": "memoji-030",
+      "filename": "memoji-avatars-030",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-030.png",
+        "preview": "preview/memoji-avatars-030.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-030.webp"
+      }
+    },
+    {
+      "id": "memoji-031",
+      "filename": "memoji-avatars-031",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d848"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-031.png",
+        "preview": "preview/memoji-avatars-031.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-031.webp"
+      }
+    },
+    {
+      "id": "memoji-032",
+      "filename": "memoji-avatars-032",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-032.png",
+        "preview": "preview/memoji-avatars-032.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-032.webp"
+      }
+    },
+    {
+      "id": "memoji-033",
+      "filename": "memoji-avatars-033",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-033.png",
+        "preview": "preview/memoji-avatars-033.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-033.webp"
+      }
+    },
+    {
+      "id": "memoji-034",
+      "filename": "memoji-avatars-034",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d848"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-034.png",
+        "preview": "preview/memoji-avatars-034.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-034.webp"
+      }
+    },
+    {
+      "id": "memoji-035",
+      "filename": "memoji-avatars-035",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#c898e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-035.png",
+        "preview": "preview/memoji-avatars-035.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-035.webp"
+      }
+    },
+    {
+      "id": "memoji-036",
+      "filename": "memoji-avatars-036",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-036.png",
+        "preview": "preview/memoji-avatars-036.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-036.webp"
+      }
+    },
+    {
+      "id": "memoji-037",
+      "filename": "memoji-avatars-037",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#b898f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-037.png",
+        "preview": "preview/memoji-avatars-037.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-037.webp"
+      }
+    },
+    {
+      "id": "memoji-038",
+      "filename": "memoji-avatars-038",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#78c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-038.png",
+        "preview": "preview/memoji-avatars-038.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-038.webp"
+      }
+    },
+    {
+      "id": "memoji-039",
+      "filename": "memoji-avatars-039",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#c898e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-039.png",
+        "preview": "preview/memoji-avatars-039.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-039.webp"
+      }
+    },
+    {
+      "id": "memoji-040",
+      "filename": "memoji-avatars-040",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-040.png",
+        "preview": "preview/memoji-avatars-040.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-040.webp"
+      }
+    },
+    {
+      "id": "memoji-041",
+      "filename": "memoji-avatars-041",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#b898f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-041.png",
+        "preview": "preview/memoji-avatars-041.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-041.webp"
+      }
+    },
+    {
+      "id": "memoji-042",
+      "filename": "memoji-avatars-042",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#78c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-042.png",
+        "preview": "preview/memoji-avatars-042.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-042.webp"
+      }
+    },
+    {
+      "id": "memoji-043",
+      "filename": "memoji-avatars-043",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#b8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-043.png",
+        "preview": "preview/memoji-avatars-043.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-043.webp"
+      }
+    },
+    {
+      "id": "memoji-044",
+      "filename": "memoji-avatars-044",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#a8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-044.png",
+        "preview": "preview/memoji-avatars-044.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-044.webp"
+      }
+    },
+    {
+      "id": "memoji-045",
+      "filename": "memoji-avatars-045",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#a8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-045.png",
+        "preview": "preview/memoji-avatars-045.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-045.webp"
+      }
+    },
+    {
+      "id": "memoji-046",
+      "filename": "memoji-avatars-046",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8c868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-046.png",
+        "preview": "preview/memoji-avatars-046.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-046.webp"
+      }
+    },
+    {
+      "id": "memoji-047",
+      "filename": "memoji-avatars-047",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#a8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-047.png",
+        "preview": "preview/memoji-avatars-047.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-047.webp"
+      }
+    },
+    {
+      "id": "memoji-048",
+      "filename": "memoji-avatars-048",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#a8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-048.png",
+        "preview": "preview/memoji-avatars-048.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-048.webp"
+      }
+    },
+    {
+      "id": "memoji-049",
+      "filename": "memoji-avatars-049",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-049.png",
+        "preview": "preview/memoji-avatars-049.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-049.webp"
+      }
+    },
+    {
+      "id": "memoji-050",
+      "filename": "memoji-avatars-050",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-050.png",
+        "preview": "preview/memoji-avatars-050.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-050.webp"
+      }
+    },
+    {
+      "id": "memoji-051",
+      "filename": "memoji-avatars-051",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d848"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-051.png",
+        "preview": "preview/memoji-avatars-051.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-051.webp"
+      }
+    },
+    {
+      "id": "memoji-052",
+      "filename": "memoji-avatars-052",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98d8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-052.png",
+        "preview": "preview/memoji-avatars-052.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-052.webp"
+      }
+    },
+    {
+      "id": "memoji-053",
+      "filename": "memoji-avatars-053",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8d8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-053.png",
+        "preview": "preview/memoji-avatars-053.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-053.webp"
+      }
+    },
+    {
+      "id": "memoji-054",
+      "filename": "memoji-avatars-054",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8a868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-054.png",
+        "preview": "preview/memoji-avatars-054.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-054.webp"
+      }
+    },
+    {
+      "id": "memoji-055",
+      "filename": "memoji-avatars-055",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8a858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-055.png",
+        "preview": "preview/memoji-avatars-055.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-055.webp"
+      }
+    },
+    {
+      "id": "memoji-056",
+      "filename": "memoji-avatars-056",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8d8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-056.png",
+        "preview": "preview/memoji-avatars-056.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-056.webp"
+      }
+    },
+    {
+      "id": "memoji-057",
+      "filename": "memoji-avatars-057",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98d8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-057.png",
+        "preview": "preview/memoji-avatars-057.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-057.webp"
+      }
+    },
+    {
+      "id": "memoji-058",
+      "filename": "memoji-avatars-058",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-058.png",
+        "preview": "preview/memoji-avatars-058.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-058.webp"
+      }
+    },
+    {
+      "id": "memoji-059",
+      "filename": "memoji-avatars-059",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#a8d8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-059.png",
+        "preview": "preview/memoji-avatars-059.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-059.webp"
+      }
+    },
+    {
+      "id": "memoji-060",
+      "filename": "memoji-avatars-060",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#d89898"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-060.png",
+        "preview": "preview/memoji-avatars-060.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-060.webp"
+      }
+    },
+    {
+      "id": "memoji-061",
+      "filename": "memoji-avatars-061",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8e888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-061.png",
+        "preview": "preview/memoji-avatars-061.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-061.webp"
+      }
+    },
+    {
+      "id": "memoji-062",
+      "filename": "memoji-avatars-062",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8e8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-062.png",
+        "preview": "preview/memoji-avatars-062.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-062.webp"
+      }
+    },
+    {
+      "id": "memoji-063",
+      "filename": "memoji-avatars-063",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#c8b8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-063.png",
+        "preview": "preview/memoji-avatars-063.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-063.webp"
+      }
+    },
+    {
+      "id": "memoji-064",
+      "filename": "memoji-avatars-064",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-064.png",
+        "preview": "preview/memoji-avatars-064.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-064.webp"
+      }
+    },
+    {
+      "id": "memoji-065",
+      "filename": "memoji-avatars-065",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98a888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-065.png",
+        "preview": "preview/memoji-avatars-065.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-065.webp"
+      }
+    },
+    {
+      "id": "memoji-066",
+      "filename": "memoji-avatars-066",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98c8f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-066.png",
+        "preview": "preview/memoji-avatars-066.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-066.webp"
+      }
+    },
+    {
+      "id": "memoji-067",
+      "filename": "memoji-avatars-067",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#98a888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-067.png",
+        "preview": "preview/memoji-avatars-067.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-067.webp"
+      }
+    },
+    {
+      "id": "memoji-068",
+      "filename": "memoji-avatars-068",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8d8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-068.png",
+        "preview": "preview/memoji-avatars-068.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-068.webp"
+      }
+    },
+    {
+      "id": "memoji-069",
+      "filename": "memoji-avatars-069",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-069.png",
+        "preview": "preview/memoji-avatars-069.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-069.webp"
+      }
+    },
+    {
+      "id": "memoji-070",
+      "filename": "memoji-avatars-070",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-070.png",
+        "preview": "preview/memoji-avatars-070.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-070.webp"
+      }
+    },
+    {
+      "id": "memoji-071",
+      "filename": "memoji-avatars-071",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8d8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-071.png",
+        "preview": "preview/memoji-avatars-071.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-071.webp"
+      }
+    },
+    {
+      "id": "memoji-072",
+      "filename": "memoji-avatars-072",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8d8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-072.png",
+        "preview": "preview/memoji-avatars-072.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-072.webp"
+      }
+    },
+    {
+      "id": "memoji-073",
+      "filename": "memoji-avatars-073",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-073.png",
+        "preview": "preview/memoji-avatars-073.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-073.webp"
+      }
+    },
+    {
+      "id": "memoji-074",
+      "filename": "memoji-avatars-074",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-074.png",
+        "preview": "preview/memoji-avatars-074.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-074.webp"
+      }
+    },
+    {
+      "id": "memoji-075",
+      "filename": "memoji-avatars-075",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8d8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-075.png",
+        "preview": "preview/memoji-avatars-075.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-075.webp"
+      }
+    },
+    {
+      "id": "memoji-076",
+      "filename": "memoji-avatars-076",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8d8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-076.png",
+        "preview": "preview/memoji-avatars-076.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-076.webp"
+      }
+    },
+    {
+      "id": "memoji-077",
+      "filename": "memoji-avatars-077",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-077.png",
+        "preview": "preview/memoji-avatars-077.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-077.webp"
+      }
+    },
+    {
+      "id": "memoji-078",
+      "filename": "memoji-avatars-078",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8d868"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-078.png",
+        "preview": "preview/memoji-avatars-078.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-078.webp"
+      }
+    },
+    {
+      "id": "memoji-079",
+      "filename": "memoji-avatars-079",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8d8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-079.png",
+        "preview": "preview/memoji-avatars-079.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-079.webp"
+      }
+    },
+    {
+      "id": "memoji-080",
+      "filename": "memoji-avatars-080",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-080.png",
+        "preview": "preview/memoji-avatars-080.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-080.webp"
+      }
+    },
+    {
+      "id": "memoji-081",
+      "filename": "memoji-avatars-081",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-081.png",
+        "preview": "preview/memoji-avatars-081.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-081.webp"
+      }
+    },
+    {
+      "id": "memoji-082",
+      "filename": "memoji-avatars-082",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-082.png",
+        "preview": "preview/memoji-avatars-082.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-082.webp"
+      }
+    },
+    {
+      "id": "memoji-083",
+      "filename": "memoji-avatars-083",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#181818"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-083.png",
+        "preview": "preview/memoji-avatars-083.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-083.webp"
+      }
+    },
+    {
+      "id": "memoji-084",
+      "filename": "memoji-avatars-084",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f89888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-084.png",
+        "preview": "preview/memoji-avatars-084.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-084.webp"
+      }
+    },
+    {
+      "id": "memoji-085",
+      "filename": "memoji-avatars-085",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#782838"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-085.png",
+        "preview": "preview/memoji-avatars-085.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-085.webp"
+      }
+    },
+    {
+      "id": "memoji-086",
+      "filename": "memoji-avatars-086",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#b8f8c8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-086.png",
+        "preview": "preview/memoji-avatars-086.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-086.webp"
+      }
+    },
+    {
+      "id": "memoji-087",
+      "filename": "memoji-avatars-087",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b8b8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-087.png",
+        "preview": "preview/memoji-avatars-087.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-087.webp"
+      }
+    },
+    {
+      "id": "memoji-088",
+      "filename": "memoji-avatars-088",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#c8a8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-088.png",
+        "preview": "preview/memoji-avatars-088.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-088.webp"
+      }
+    },
+    {
+      "id": "memoji-089",
+      "filename": "memoji-avatars-089",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#88e8e8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-089.png",
+        "preview": "preview/memoji-avatars-089.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-089.webp"
+      }
+    },
+    {
+      "id": "memoji-090",
+      "filename": "memoji-avatars-090",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#387858"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-090.png",
+        "preview": "preview/memoji-avatars-090.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-090.webp"
+      }
+    },
+    {
+      "id": "memoji-091",
+      "filename": "memoji-avatars-091",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8b878"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-091.png",
+        "preview": "preview/memoji-avatars-091.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-091.webp"
+      }
+    },
+    {
+      "id": "memoji-092",
+      "filename": "memoji-avatars-092",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#985888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-092.png",
+        "preview": "preview/memoji-avatars-092.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-092.webp"
+      }
+    },
+    {
+      "id": "memoji-093",
+      "filename": "memoji-avatars-093",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#985888"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-093.png",
+        "preview": "preview/memoji-avatars-093.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-093.webp"
+      }
+    },
+    {
+      "id": "memoji-094",
+      "filename": "memoji-avatars-094",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#e8c8a8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-094.png",
+        "preview": "preview/memoji-avatars-094.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-094.webp"
+      }
+    },
+    {
+      "id": "memoji-095",
+      "filename": "memoji-avatars-095",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#080808"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-095.png",
+        "preview": "preview/memoji-avatars-095.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-095.webp"
+      }
+    },
+    {
+      "id": "memoji-096",
+      "filename": "memoji-avatars-096",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f8c828"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-096.png",
+        "preview": "preview/memoji-avatars-096.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-096.webp"
+      }
+    },
+    {
+      "id": "memoji-097",
+      "filename": "memoji-avatars-097",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#f89898"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-097.png",
+        "preview": "preview/memoji-avatars-097.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-097.webp"
+      }
+    },
+    {
+      "id": "memoji-098",
+      "filename": "memoji-avatars-098",
+      "tags": [
+        "memoji",
+        "3d",
+        "cartoon"
+      ],
+      "dominant_colors": [
+        "#8868f8"
+      ],
+      "files": {
+        "4k": "4k/memoji-avatars-098.png",
+        "preview": "preview/memoji-avatars-098.jpg",
+        "thumbnail": "thumbnails/memoji-avatars-098.webp"
+      }
+    }
+  ]
+}
