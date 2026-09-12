@@ -102,11 +102,20 @@ async function validateImage(filePath) {
 // Some sources have transparent regions outside a baked-in rounded-rect /
 // floating shape (procedural SVG collections). JPEG has no alpha channel,
 // so sharp's default flatten falls back to black — producing a visible
-// black seam behind the card's own rounded corners. To avoid that, sample
-// the image's own background fill (a point safely inside the shape, away
-// from any corner cut) and flatten to that color instead; if the sample
-// point is itself transparent (a shape floating on empty canvas, by
-// design), fall back to white so it blends with the app's light UI.
+// black seam behind the card's own rounded corners. To avoid that we
+// flatten to a background color instead of letting sharp default to
+// black. Two designs exist among the source art:
+//   - "bg-fill" (company/cyber/quiet): a solid or pastel fill covers
+//     almost the whole frame, only cut at the corners. Sample many
+//     points around the perimeter and take the most common opaque
+//     color — safe against any single sample landing on foreground
+//     content (e.g. a logo mark that happens to reach one edge).
+//   - "floating shape" (doodle/illustrated/sculpted): the canvas is
+//     mostly transparent by design (a character floating with no
+//     drawn background at all). Detected via a high overall
+//     transparent-pixel ratio; always flattens to white regardless of
+//     what any perimeter sample finds, since there is no background
+//     fill to preserve.
 async function getFlattenColor(srcPath) {
   const img = sharp(srcPath);
   const meta = await img.metadata();
@@ -114,15 +123,49 @@ async function getFlattenColor(srcPath) {
 
   const { data, info } = await img.raw().ensureAlpha().toBuffer({ resolveWithObject: true });
   const { width, height, channels } = info;
-  const x = Math.floor(width * 0.5);
-  const y = Math.floor(height * 0.03);
-  const idx = (y * width + x) * channels;
-  const alpha = data[idx + 3];
 
-  if (alpha > 200) {
-    return { r: data[idx], g: data[idx + 1], b: data[idx + 2] };
+  let transparentCount = 0;
+  const total = width * height;
+  for (let i = 3; i < data.length; i += channels) {
+    if (data[i] < 10) transparentCount++;
   }
-  return { r: 255, g: 255, b: 255 };
+  if ((transparentCount / total) > 0.15) {
+    return { r: 255, g: 255, b: 255 };
+  }
+
+  // bg-fill design: sample a ring of points around the perimeter and
+  // take the most common opaque color (majority vote), so a single
+  // sample landing on foreground content can't skew the result.
+  const fracs = [0.08, 0.25, 0.5, 0.75, 0.92];
+  const counts = new Map();
+  for (const yf of [0.03, 0.97]) {
+    for (const xf of fracs) {
+      const x = Math.floor(width * xf);
+      const y = Math.floor(height * yf);
+      const idx = (y * width + x) * channels;
+      if (data[idx + 3] < 200) continue;
+      const key = `${data[idx]},${data[idx + 1]},${data[idx + 2]}`;
+      counts.set(key, (counts.get(key) || 0) + 1);
+    }
+  }
+  for (const xf of [0.03, 0.97]) {
+    for (const yf of fracs) {
+      const x = Math.floor(width * xf);
+      const y = Math.floor(height * yf);
+      const idx = (y * width + x) * channels;
+      if (data[idx + 3] < 200) continue;
+      const key = `${data[idx]},${data[idx + 1]},${data[idx + 2]}`;
+      counts.set(key, (counts.get(key) || 0) + 1);
+    }
+  }
+
+  if (counts.size === 0) return { r: 255, g: 255, b: 255 };
+  let best = null, bestCount = -1;
+  for (const [key, count] of counts) {
+    if (count > bestCount) { best = key; bestCount = count; }
+  }
+  const [r, g, b] = best.split(',').map(Number);
+  return { r, g, b };
 }
 
 async function processImage(srcPath, collection) {
