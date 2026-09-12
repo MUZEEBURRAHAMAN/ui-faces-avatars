@@ -1,33 +1,33 @@
-# UI Faces — Avatar Collections
+# Avatarly — Avatar Collections
 
-**518 hand-curated, high-resolution avatars for designers and developers.**
+**1,098 hand-curated avatars, robots, and logo marks for designers and developers.**
 
-4K resolution (4096x4096) · PNG / JPG / WebP · sRGB color space · No attribution required
+4K resolution (4096x4096) · PNG / JPG / WebP · sRGB color space · No attribution required · Fully self-hosted, zero third-party APIs
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE.md)
 [![Collections](https://img.shields.io/badge/Collections-11-blue.svg)](#collections)
-[![Total Avatars](https://img.shields.io/badge/Avatars-518-green.svg)](#collections)
+[![Total Avatars](https://img.shields.io/badge/Avatars-1098-green.svg)](#collections)
 [![Resolution](https://img.shields.io/badge/Resolution-4K-orange.svg)](#image-specifications)
 
 ---
 
+This is the image data store that powers the [Avatarly](https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars) Figma plugin — an infinite avatar & quick-fill studio for mockups, dashboards, and prototypes.
+
 ## Collections
 
-| Preview | Collection | Count | Style | Price |
-|---------|-----------|-------|-------|-------|
-| ![](assets/showcase/office-preview.jpg) | **[Office Avatars](collections/office-avatars/)** | 72 | Photorealistic | $12 |
-| ![](assets/showcase/everyday-preview.jpg) | **[Everyday Avatars](collections/everyday-avatars/)** | 45 | Photorealistic | $12 |
-| ![](assets/showcase/human-preview.jpg) | **[Human Avatars](collections/human-avatars/)** | 30 | Photorealistic | $12 |
-| ![](assets/showcase/company-preview.jpg) | **[Company Avatars](collections/company-avatars/)** | 42 | Vector/Logo | $12 |
-| ![](assets/showcase/abstract-preview.jpg) | **[Abstract Avatars](collections/abstract-avatars/)** | 30 | Geometric | $12 |
-| ![](assets/showcase/sculpted-preview.jpg) | **[Sculpted Avatars](collections/sculpted-avatars/)** | 30 | 3D Rendered | $12 |
-| ![](assets/showcase/doodle-preview.jpg) | **[Doodle Avatars](collections/doodle-avatars/)** | 32 | Hand-drawn | $24 |
-| ![](assets/showcase/illustrated-preview.jpg) | **[Illustrated Avatars](collections/illustrated-avatars/)** | 30 | Editorial | $6 |
-| ![](assets/showcase/cartoon-preview.jpg) | **[Cartoon Avatars](collections/cartoon-avatars/)** | 30 | Cartoon | $6 |
-| ![](assets/showcase/quiet-preview.jpg) | **[Quiet Avatars](collections/quiet-avatars/)** | 30 | Minimal | $6 |
-| ![](assets/showcase/people-preview.jpg) | **[People Bundle](collections/people-bundle/)** | 147 | Mixed Realistic | $24 |
-
-> Each collection is limited to **100 licenses**. Once sold out, it's gone.
+| Collection | Count | Style |
+|-----------|-------|-------|
+| **[Office Avatars](collections/office-avatars/)** | 100 | Photorealistic — SaaS & workplace |
+| **[Everyday Avatars](collections/everyday-avatars/)** | 100 | Photorealistic — authentic people |
+| **[Sculpted Avatars](collections/sculpted-avatars/)** | 100 | 3D-rendered busts & clay |
+| **[Sketch B&W](collections/illustrated-avatars/)** | 100 | Editorial line-art illustration |
+| **[Cartoon Avatars](collections/cartoon-avatars/)** | 100 | Friendly cartoon characters |
+| **[Comic Color](collections/doodle-avatars/)** | 100 | Hand-drawn, colorful doodles |
+| **[Abstract Avatars](collections/abstract-avatars/)** | 100 | Bold geometric art |
+| **[Quiet Avatars](collections/quiet-avatars/)** | 100 | Minimal line-art on pastel backgrounds |
+| **[Company Logos](collections/company-avatars/)** | 100 | Abstract logo-style marks |
+| **[Memoji Avatars](collections/memoji-avatars/)** | 98 | Expressive 3D cartoon characters |
+| **[Cyber Avatars](collections/cyber-avatars/)** | 100 | Sci-fi robots & bots |
 
 ---
 
@@ -36,26 +36,13 @@
 ### Download via Git
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ui-faces-avatars.git
-```
-
-### Download a Single Collection
-
-```bash
-# Using GitHub CLI
-gh release download v1.0.0 --pattern "office-avatars-*.zip"
+git clone https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars.git
 ```
 
 ### Use via CDN (jsDelivr)
 
 ```
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/ui-faces-avatars/collections/office-avatars/preview/office-avatars-001.jpg
-```
-
-### Use via npm (coming soon)
-
-```bash
-npm install @uifaces/avatars
+https://cdn.jsdelivr.net/gh/MUZEEBURRAHAMAN/ui-faces-avatars@main/collections/office-avatars/preview/office-avatars-001.jpg
 ```
 
 ---
@@ -67,8 +54,7 @@ npm install @uifaces/avatars
 | Resolution | 4096 x 4096 px |
 | Formats | PNG (lossless), JPG (95% quality), WebP (80% quality) |
 | Color Space | sRGB |
-| Max File Size | 5 MB per image |
-| Background | Neutral gray (photos), Transparent (illustrations) |
+| Background | Neutral pastel (avatars), transparent-friendly (logos) |
 
 ### Sizes Included
 
@@ -105,18 +91,10 @@ ui-faces-avatars/
 ├── scripts/
 │   ├── process-images.mjs         # Batch resize/convert/compress
 │   ├── generate-metadata.mjs      # Auto-generate JSON metadata
-│   └── generate-preview-grid.mjs  # Create showcase grid images
-├── assets/
-│   ├── showcase/                  # Preview images for README
-│   ├── social-previews/           # Open Graph images
-│   └── badges/                    # Custom badges
-├── .github/
-│   └── workflows/
-│       └── optimize-images.yml    # Auto-process on push
-├── LICENSE.md                     # CC BY 4.0
-├── COMMERCIAL_LICENSE.md          # Commercial terms
+│   └── generate-vectors.mjs       # Procedural SVG generators
+├── LICENSE.md                      # CC BY 4.0
+├── COMMERCIAL_LICENSE.md           # Commercial terms
 ├── CONTRIBUTING.md
-├── CHANGELOG.md
 └── README.md
 ```
 
@@ -129,12 +107,11 @@ ui-faces-avatars/
 
 Examples:
   office-avatars-001.png
-  office-avatars-042.jpg
-  everyday-avatars-015.webp
-  cartoon-avatars-030.png
+  cyber-avatars-042.jpg
+  memoji-avatars-015.webp
 ```
 
-- Zero-padded 3-digit numbers (001-999)
+- Zero-padded 3-digit numbers (001-100)
 - Lowercase kebab-case collection slug
 - Consistent across all sizes (same base name, different directories)
 
@@ -151,19 +128,16 @@ Each collection includes structured JSON metadata. See [`metadata/`](metadata/) 
   "collection": {
     "id": "office-avatars",
     "name": "Office Avatars",
-    "count": 72,
+    "count": 100,
     "resolution": "4096x4096",
     "formats": ["png", "jpg", "webp"],
-    "tags": ["professional", "corporate", "headshot"],
-    "price": 12
+    "tags": ["professional", "corporate", "headshot"]
   },
   "avatars": [
     {
       "id": "office-001",
-      "gender": "female",
-      "age_range": "25-35",
       "tags": ["professional", "smile", "glasses"],
-      "dominant_colors": ["#4A4A4A", "#D4A574"]
+      "dominant_colors": ["#4A4A4A"]
     }
   ]
 }
@@ -171,7 +145,7 @@ Each collection includes structured JSON metadata. See [`metadata/`](metadata/) 
 
 ### Master index (`metadata/index.json`)
 
-Lists all 11 collections with counts, descriptions, pricing, and license availability.
+Lists all 11 collections with counts, descriptions, and tags.
 
 ---
 
@@ -186,47 +160,21 @@ All avatars in this repository are available under [Creative Commons Attribution
 - Modify, resize, crop as needed
 - Attribution appreciated but not required for UI mockups
 
-### Commercial License
-
-For premium access with priority support and extended rights, purchase individual collections at [uifaces.co](https://uifaces.co).
-
-Each collection is limited to **100 licenses**. See [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for full terms.
+See [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md) for extended commercial terms.
 
 ---
 
-## Usage Examples
+## Usage
 
-### Figma Plugin
+### Avatarly Figma Plugin
 
-Install the [UI Faces Figma Plugin](https://www.figma.com/community/plugin/...) to browse and insert avatars directly into your designs.
-
-### React
-
-```jsx
-import officeAvatars from '@uifaces/avatars/metadata/office-avatars.json';
-
-function AvatarGrid() {
-  return (
-    <div className="grid">
-      {officeAvatars.avatars.map(a => (
-        <img
-          key={a.id}
-          src={`/avatars/${a.files.preview}`}
-          alt={`${a.gender} professional avatar`}
-          width={80}
-          height={80}
-        />
-      ))}
-    </div>
-  );
-}
-```
+Install **Avatarly** in Figma to browse and fill any shape with these avatars in one click, with style presets, status badges, persona sync, and component-set generation.
 
 ### CSS Placeholder
 
 ```css
 .avatar {
-  background-image: url('https://cdn.jsdelivr.net/gh/.../office-avatars/thumbnails/office-avatars-001.webp');
+  background-image: url('https://cdn.jsdelivr.net/gh/MUZEEBURRAHAMAN/ui-faces-avatars@main/collections/office-avatars/thumbnails/office-avatars-001.webp');
   background-size: cover;
   width: 48px;
   height: 48px;
@@ -247,10 +195,4 @@ We do not accept avatar submissions at this time.
 
 ---
 
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for version history.
-
----
-
-Made with care by [UI Faces](https://uifaces.co)
+Made with care by [Avatarly](https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars)

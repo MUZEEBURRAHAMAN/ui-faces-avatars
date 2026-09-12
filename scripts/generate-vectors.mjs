@@ -177,7 +177,7 @@ const QUIET_SEEDS = [
 ];
 
 async function main() {
-  console.log('UI Faces — Vector Generator (100 per category)');
+  console.log('Avatarly — Vector Generator (100 per category)');
   console.log(`Output: ${COLLECTIONS}`);
   console.log(`Resolution: ${SIZE}x${SIZE}px\n`);
 

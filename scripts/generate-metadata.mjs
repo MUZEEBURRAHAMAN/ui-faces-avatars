@@ -129,10 +129,10 @@ async function main() {
   const existing = fs.existsSync(indexPath) ? JSON.parse(fs.readFileSync(indexPath, 'utf-8')) : {};
 
   const index = {
-    name: 'UI Faces Avatar Collections',
+    name: 'Avatarly Avatar Collections',
     version: existing.version || '1.0.0',
-    author: 'UI Faces',
-    website: 'https://uifaces.co',
+    author: 'Avatarly',
+    website: 'https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars',
     updated: new Date().toISOString().split('T')[0],
     total_avatars: results.reduce((sum, r) => sum + r.count, 0),
     resolution: '4096x4096',

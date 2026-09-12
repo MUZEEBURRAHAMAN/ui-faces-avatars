@@ -2,7 +2,7 @@
 
 ## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) 2026 UI Faces
+Copyright (c) 2026 Avatarly
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
@@ -28,12 +28,12 @@ No warranties are given. The license may not give you all of the permissions nec
 
 **In an app, website, or product:**
 ```
-Avatars by UI Faces (uifaces.co) — CC BY 4.0
+Avatars by Avatarly — CC BY 4.0
 ```
 
 **In documentation or a README:**
 ```markdown
-Avatar images from [UI Faces](https://uifaces.co), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Avatar images from Avatarly, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ```
 
 ---

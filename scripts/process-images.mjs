@@ -1,5 +1,5 @@
 /**
- * Batch Image Processor — UI Faces Avatar Collections
+ * Batch Image Processor — Avatarly Avatar Collections
  *
  * Takes source 4K images from each collection's 4k/ folder and generates:
  *   - preview/  (800x800 JPG, 95% quality)
@@ -99,8 +99,35 @@ async function validateImage(filePath) {
 
 // ── Process ───────────────────────────────────────────
 
+// Some sources have transparent regions outside a baked-in rounded-rect /
+// floating shape (procedural SVG collections). JPEG has no alpha channel,
+// so sharp's default flatten falls back to black — producing a visible
+// black seam behind the card's own rounded corners. To avoid that, sample
+// the image's own background fill (a point safely inside the shape, away
+// from any corner cut) and flatten to that color instead; if the sample
+// point is itself transparent (a shape floating on empty canvas, by
+// design), fall back to white so it blends with the app's light UI.
+async function getFlattenColor(srcPath) {
+  const img = sharp(srcPath);
+  const meta = await img.metadata();
+  if (!meta.hasAlpha) return null;
+
+  const { data, info } = await img.raw().ensureAlpha().toBuffer({ resolveWithObject: true });
+  const { width, height, channels } = info;
+  const x = Math.floor(width * 0.5);
+  const y = Math.floor(height * 0.03);
+  const idx = (y * width + x) * channels;
+  const alpha = data[idx + 3];
+
+  if (alpha > 200) {
+    return { r: data[idx], g: data[idx + 1], b: data[idx + 2] };
+  }
+  return { r: 255, g: 255, b: 255 };
+}
+
 async function processImage(srcPath, collection) {
   const basename = path.basename(srcPath, path.extname(srcPath));
+  let flattenColor;
 
   for (const [sizeKey, config] of Object.entries(SIZES)) {
     const outDir  = path.join(COLLECTIONS_DIR, collection, sizeKey);
@@ -119,6 +146,8 @@ async function processImage(srcPath, collection) {
       .resize(config.width, config.height, { fit: 'cover', position: 'top' });
 
     if (config.format === 'jpeg') {
+      if (flattenColor === undefined) flattenColor = await getFlattenColor(srcPath);
+      if (flattenColor) pipeline = pipeline.flatten({ background: flattenColor });
       pipeline = pipeline.jpeg({ quality: config.quality, mozjpeg: true });
     } else if (config.format === 'webp') {
       pipeline = pipeline.webp({ quality: config.quality });
@@ -184,7 +213,7 @@ async function main() {
     ? [targetCollection]
     : COLLECTIONS;
 
-  logln('UI Faces — Image Processor');
+  logln('Avatarly — Image Processor');
   logln(`Mode: ${validateOnly ? 'VALIDATE ONLY' : 'PROCESS + VALIDATE'}`);
   logln(`Collections: ${collections.length}`);
 

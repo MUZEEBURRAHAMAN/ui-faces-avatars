@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in UI Faces.
+Thanks for your interest in Avatarly.
 
 ## What We Accept
 

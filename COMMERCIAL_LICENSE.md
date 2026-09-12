@@ -1,6 +1,6 @@
 # Commercial License
 
-## UI Faces — Avatar Collections
+## Avatarly — Avatar Collections
 
 ### License Terms
 
@@ -46,14 +46,14 @@ Each license covers:
 
 Full refund within 14 days of purchase if unused. No refund after download or use in a project.
 
-### Purchase
+### Access
 
-Visit [uifaces.co](https://uifaces.co) to purchase collections.
+All collections are distributed free of charge under CC BY 4.0 via the [Avatarly](https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars) repository and the Avatarly Figma plugin. See [LICENSE.md](LICENSE.md) for terms.
 
 ### Questions
 
-Email: hi@uifaces.co
+Open an issue on the [GitHub repository](https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars).
 
 ---
 
-Copyright (c) 2026 UI Faces. All rights reserved.
+Copyright (c) 2026 Avatarly. All rights reserved.
