@@ -4,7 +4,7 @@
   "author": "Avatarly",
   "website": "https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars",
   "updated": "2026-09-14",
-  "total_avatars": 1198,
+  "total_avatars": 1224,
   "resolution": "4096x4096",
   "formats": [
     "png",
@@ -240,6 +240,25 @@
       "licenses_total": 100,
       "licenses_remaining": 100,
       "path": "collections/pixel-avatars"
+    },
+    {
+      "id": "world-avatars",
+      "name": "World Avatars",
+      "slug": "world-avatars",
+      "count": 26,
+      "style": "3d-cartoon",
+      "description": "26 stylized 3D character portraits representing diverse cultures and ethnicities from around the world. Perfect for global products, inclusive onboarding, and representative team mockups.",
+      "tags": [
+        "3d",
+        "diverse",
+        "global",
+        "cultural",
+        "portrait"
+      ],
+      "price": 12,
+      "licenses_total": 100,
+      "licenses_remaining": 100,
+      "path": "collections/world-avatars"
     }
   ]
 }

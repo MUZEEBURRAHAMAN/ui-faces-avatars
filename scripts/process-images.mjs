@@ -47,6 +47,7 @@ const COLLECTIONS = [
   'memoji-avatars',
   'cyber-avatars',
   'pixel-avatars',
+  'world-avatars',
   'people-bundle',
 ];
 
