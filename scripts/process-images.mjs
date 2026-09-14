@@ -44,6 +44,9 @@ const COLLECTIONS = [
   'illustrated-avatars',
   'cartoon-avatars',
   'quiet-avatars',
+  'memoji-avatars',
+  'cyber-avatars',
+  'pixel-avatars',
   'people-bundle',
 ];
 

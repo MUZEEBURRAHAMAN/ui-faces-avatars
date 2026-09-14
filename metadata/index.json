@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "author": "Avatarly",
   "website": "https://github.com/MUZEEBURRAHAMAN/ui-faces-avatars",
-  "updated": "2026-09-12",
-  "total_avatars": 1098,
+  "updated": "2026-09-14",
+  "total_avatars": 1198,
   "resolution": "4096x4096",
   "formats": [
     "png",
@@ -221,6 +221,25 @@
       "licenses_total": 100,
       "licenses_remaining": 100,
       "path": "collections/cyber-avatars"
+    },
+    {
+      "id": "pixel-avatars",
+      "name": "Pixel Avatars",
+      "slug": "pixel-avatars",
+      "count": 100,
+      "style": "pixel-mosaic",
+      "description": "100 pixel-mosaic avatars with bold flat color grids. Perfect for anonymous profiles, GitHub-style placeholders, and playful low-distraction mockups.",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric",
+        "retro",
+        "colorful"
+      ],
+      "price": 6,
+      "licenses_total": 100,
+      "licenses_remaining": 100,
+      "path": "collections/pixel-avatars"
     }
   ]
 }

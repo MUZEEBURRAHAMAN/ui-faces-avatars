@@ -1,0 +1,1732 @@
+{
+  "collection": {
+    "id": "pixel-avatars",
+    "name": "Pixel Avatars",
+    "version": "1.0.0",
+    "count": 100,
+    "resolution": "4096x4096",
+    "formats": [
+      "png",
+      "jpg",
+      "webp"
+    ],
+    "color_space": "sRGB",
+    "style": "pixel-mosaic",
+    "description": "100 pixel-mosaic avatars with bold flat color grids. Perfect for anonymous profiles, GitHub-style placeholders, and playful low-distraction mockups.",
+    "tags": [
+      "pixel",
+      "mosaic",
+      "geometric",
+      "retro",
+      "colorful"
+    ],
+    "price": 6,
+    "currency": "USD",
+    "licenses_total": 100,
+    "licenses_remaining": 100,
+    "created": "2026-09-14",
+    "updated": "2026-09-14"
+  },
+  "avatars": [
+    {
+      "id": "pixel-001",
+      "filename": "pixel-avatars-001",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#388878"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-001.png",
+        "preview": "preview/pixel-avatars-001.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-001.webp"
+      }
+    },
+    {
+      "id": "pixel-002",
+      "filename": "pixel-avatars-002",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-002.png",
+        "preview": "preview/pixel-avatars-002.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-002.webp"
+      }
+    },
+    {
+      "id": "pixel-003",
+      "filename": "pixel-avatars-003",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#3888f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-003.png",
+        "preview": "preview/pixel-avatars-003.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-003.webp"
+      }
+    },
+    {
+      "id": "pixel-004",
+      "filename": "pixel-avatars-004",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a858f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-004.png",
+        "preview": "preview/pixel-avatars-004.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-004.webp"
+      }
+    },
+    {
+      "id": "pixel-005",
+      "filename": "pixel-avatars-005",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-005.png",
+        "preview": "preview/pixel-avatars-005.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-005.webp"
+      }
+    },
+    {
+      "id": "pixel-006",
+      "filename": "pixel-avatars-006",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f89808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-006.png",
+        "preview": "preview/pixel-avatars-006.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-006.webp"
+      }
+    },
+    {
+      "id": "pixel-007",
+      "filename": "pixel-avatars-007",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#b81858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-007.png",
+        "preview": "preview/pixel-avatars-007.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-007.webp"
+      }
+    },
+    {
+      "id": "pixel-008",
+      "filename": "pixel-avatars-008",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#18b8a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-008.png",
+        "preview": "preview/pixel-avatars-008.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-008.webp"
+      }
+    },
+    {
+      "id": "pixel-009",
+      "filename": "pixel-avatars-009",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#6868f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-009.png",
+        "preview": "preview/pixel-avatars-009.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-009.webp"
+      }
+    },
+    {
+      "id": "pixel-010",
+      "filename": "pixel-avatars-010",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-010.png",
+        "preview": "preview/pixel-avatars-010.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-010.webp"
+      }
+    },
+    {
+      "id": "pixel-011",
+      "filename": "pixel-avatars-011",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#187838"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-011.png",
+        "preview": "preview/pixel-avatars-011.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-011.webp"
+      }
+    },
+    {
+      "id": "pixel-012",
+      "filename": "pixel-avatars-012",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#d82828"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-012.png",
+        "preview": "preview/pixel-avatars-012.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-012.webp"
+      }
+    },
+    {
+      "id": "pixel-013",
+      "filename": "pixel-avatars-013",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08a8e8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-013.png",
+        "preview": "preview/pixel-avatars-013.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-013.webp"
+      }
+    },
+    {
+      "id": "pixel-014",
+      "filename": "pixel-avatars-014",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#d848e8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-014.png",
+        "preview": "preview/pixel-avatars-014.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-014.webp"
+      }
+    },
+    {
+      "id": "pixel-015",
+      "filename": "pixel-avatars-015",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#487808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-015.png",
+        "preview": "preview/pixel-avatars-015.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-015.webp"
+      }
+    },
+    {
+      "id": "pixel-016",
+      "filename": "pixel-avatars-016",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#b81838"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-016.png",
+        "preview": "preview/pixel-avatars-016.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-016.webp"
+      }
+    },
+    {
+      "id": "pixel-017",
+      "filename": "pixel-avatars-017",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#8858f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-017.png",
+        "preview": "preview/pixel-avatars-017.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-017.webp"
+      }
+    },
+    {
+      "id": "pixel-018",
+      "filename": "pixel-avatars-018",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e8b808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-018.png",
+        "preview": "preview/pixel-avatars-018.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-018.webp"
+      }
+    },
+    {
+      "id": "pixel-019",
+      "filename": "pixel-avatars-019",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b8d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-019.png",
+        "preview": "preview/pixel-avatars-019.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-019.webp"
+      }
+    },
+    {
+      "id": "pixel-020",
+      "filename": "pixel-avatars-020",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#089888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-020.png",
+        "preview": "preview/pixel-avatars-020.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-020.webp"
+      }
+    },
+    {
+      "id": "pixel-021",
+      "filename": "pixel-avatars-021",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#388878"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-021.png",
+        "preview": "preview/pixel-avatars-021.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-021.webp"
+      }
+    },
+    {
+      "id": "pixel-022",
+      "filename": "pixel-avatars-022",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-022.png",
+        "preview": "preview/pixel-avatars-022.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-022.webp"
+      }
+    },
+    {
+      "id": "pixel-023",
+      "filename": "pixel-avatars-023",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#3888f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-023.png",
+        "preview": "preview/pixel-avatars-023.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-023.webp"
+      }
+    },
+    {
+      "id": "pixel-024",
+      "filename": "pixel-avatars-024",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a858f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-024.png",
+        "preview": "preview/pixel-avatars-024.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-024.webp"
+      }
+    },
+    {
+      "id": "pixel-025",
+      "filename": "pixel-avatars-025",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-025.png",
+        "preview": "preview/pixel-avatars-025.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-025.webp"
+      }
+    },
+    {
+      "id": "pixel-026",
+      "filename": "pixel-avatars-026",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#b85808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-026.png",
+        "preview": "preview/pixel-avatars-026.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-026.webp"
+      }
+    },
+    {
+      "id": "pixel-027",
+      "filename": "pixel-avatars-027",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84898"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-027.png",
+        "preview": "preview/pixel-avatars-027.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-027.webp"
+      }
+    },
+    {
+      "id": "pixel-028",
+      "filename": "pixel-avatars-028",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#087868"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-028.png",
+        "preview": "preview/pixel-avatars-028.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-028.webp"
+      }
+    },
+    {
+      "id": "pixel-029",
+      "filename": "pixel-avatars-029",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#6868f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-029.png",
+        "preview": "preview/pixel-avatars-029.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-029.webp"
+      }
+    },
+    {
+      "id": "pixel-030",
+      "filename": "pixel-avatars-030",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-030.png",
+        "preview": "preview/pixel-avatars-030.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-030.webp"
+      }
+    },
+    {
+      "id": "pixel-031",
+      "filename": "pixel-avatars-031",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#28c858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-031.png",
+        "preview": "preview/pixel-avatars-031.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-031.webp"
+      }
+    },
+    {
+      "id": "pixel-032",
+      "filename": "pixel-avatars-032",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#d82828"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-032.png",
+        "preview": "preview/pixel-avatars-032.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-032.webp"
+      }
+    },
+    {
+      "id": "pixel-033",
+      "filename": "pixel-avatars-033",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08a8e8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-033.png",
+        "preview": "preview/pixel-avatars-033.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-033.webp"
+      }
+    },
+    {
+      "id": "pixel-034",
+      "filename": "pixel-avatars-034",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#d848e8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-034.png",
+        "preview": "preview/pixel-avatars-034.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-034.webp"
+      }
+    },
+    {
+      "id": "pixel-035",
+      "filename": "pixel-avatars-035",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#88c818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-035.png",
+        "preview": "preview/pixel-avatars-035.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-035.webp"
+      }
+    },
+    {
+      "id": "pixel-036",
+      "filename": "pixel-avatars-036",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#b81838"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-036.png",
+        "preview": "preview/pixel-avatars-036.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-036.webp"
+      }
+    },
+    {
+      "id": "pixel-037",
+      "filename": "pixel-avatars-037",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e8e8f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-037.png",
+        "preview": "preview/pixel-avatars-037.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-037.webp"
+      }
+    },
+    {
+      "id": "pixel-038",
+      "filename": "pixel-avatars-038",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e8b808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-038.png",
+        "preview": "preview/pixel-avatars-038.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-038.webp"
+      }
+    },
+    {
+      "id": "pixel-039",
+      "filename": "pixel-avatars-039",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#0898b8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-039.png",
+        "preview": "preview/pixel-avatars-039.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-039.webp"
+      }
+    },
+    {
+      "id": "pixel-040",
+      "filename": "pixel-avatars-040",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#089888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-040.png",
+        "preview": "preview/pixel-avatars-040.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-040.webp"
+      }
+    },
+    {
+      "id": "pixel-041",
+      "filename": "pixel-avatars-041",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f8c858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-041.png",
+        "preview": "preview/pixel-avatars-041.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-041.webp"
+      }
+    },
+    {
+      "id": "pixel-042",
+      "filename": "pixel-avatars-042",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84848"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-042.png",
+        "preview": "preview/pixel-avatars-042.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-042.webp"
+      }
+    },
+    {
+      "id": "pixel-043",
+      "filename": "pixel-avatars-043",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b8d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-043.png",
+        "preview": "preview/pixel-avatars-043.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-043.webp"
+      }
+    },
+    {
+      "id": "pixel-044",
+      "filename": "pixel-avatars-044",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84898"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-044.png",
+        "preview": "preview/pixel-avatars-044.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-044.webp"
+      }
+    },
+    {
+      "id": "pixel-045",
+      "filename": "pixel-avatars-045",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-045.png",
+        "preview": "preview/pixel-avatars-045.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-045.webp"
+      }
+    },
+    {
+      "id": "pixel-046",
+      "filename": "pixel-avatars-046",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f89808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-046.png",
+        "preview": "preview/pixel-avatars-046.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-046.webp"
+      }
+    },
+    {
+      "id": "pixel-047",
+      "filename": "pixel-avatars-047",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84898"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-047.png",
+        "preview": "preview/pixel-avatars-047.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-047.webp"
+      }
+    },
+    {
+      "id": "pixel-048",
+      "filename": "pixel-avatars-048",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#18b8a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-048.png",
+        "preview": "preview/pixel-avatars-048.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-048.webp"
+      }
+    },
+    {
+      "id": "pixel-049",
+      "filename": "pixel-avatars-049",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#8888f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-049.png",
+        "preview": "preview/pixel-avatars-049.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-049.webp"
+      }
+    },
+    {
+      "id": "pixel-050",
+      "filename": "pixel-avatars-050",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-050.png",
+        "preview": "preview/pixel-avatars-050.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-050.webp"
+      }
+    },
+    {
+      "id": "pixel-051",
+      "filename": "pixel-avatars-051",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#28c858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-051.png",
+        "preview": "preview/pixel-avatars-051.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-051.webp"
+      }
+    },
+    {
+      "id": "pixel-052",
+      "filename": "pixel-avatars-052",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#781818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-052.png",
+        "preview": "preview/pixel-avatars-052.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-052.webp"
+      }
+    },
+    {
+      "id": "pixel-053",
+      "filename": "pixel-avatars-053",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#0868a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-053.png",
+        "preview": "preview/pixel-avatars-053.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-053.webp"
+      }
+    },
+    {
+      "id": "pixel-054",
+      "filename": "pixel-avatars-054",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a818a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-054.png",
+        "preview": "preview/pixel-avatars-054.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-054.webp"
+      }
+    },
+    {
+      "id": "pixel-055",
+      "filename": "pixel-avatars-055",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#487808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-055.png",
+        "preview": "preview/pixel-avatars-055.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-055.webp"
+      }
+    },
+    {
+      "id": "pixel-056",
+      "filename": "pixel-avatars-056",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f83858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-056.png",
+        "preview": "preview/pixel-avatars-056.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-056.webp"
+      }
+    },
+    {
+      "id": "pixel-057",
+      "filename": "pixel-avatars-057",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#6828d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-057.png",
+        "preview": "preview/pixel-avatars-057.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-057.webp"
+      }
+    },
+    {
+      "id": "pixel-058",
+      "filename": "pixel-avatars-058",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a86808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-058.png",
+        "preview": "preview/pixel-avatars-058.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-058.webp"
+      }
+    },
+    {
+      "id": "pixel-059",
+      "filename": "pixel-avatars-059",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#0898b8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-059.png",
+        "preview": "preview/pixel-avatars-059.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-059.webp"
+      }
+    },
+    {
+      "id": "pixel-060",
+      "filename": "pixel-avatars-060",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#089888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-060.png",
+        "preview": "preview/pixel-avatars-060.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-060.webp"
+      }
+    },
+    {
+      "id": "pixel-061",
+      "filename": "pixel-avatars-061",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f8c858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-061.png",
+        "preview": "preview/pixel-avatars-061.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-061.webp"
+      }
+    },
+    {
+      "id": "pixel-062",
+      "filename": "pixel-avatars-062",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-062.png",
+        "preview": "preview/pixel-avatars-062.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-062.webp"
+      }
+    },
+    {
+      "id": "pixel-063",
+      "filename": "pixel-avatars-063",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b8d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-063.png",
+        "preview": "preview/pixel-avatars-063.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-063.webp"
+      }
+    },
+    {
+      "id": "pixel-064",
+      "filename": "pixel-avatars-064",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a858f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-064.png",
+        "preview": "preview/pixel-avatars-064.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-064.webp"
+      }
+    },
+    {
+      "id": "pixel-065",
+      "filename": "pixel-avatars-065",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#d8f8e8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-065.png",
+        "preview": "preview/pixel-avatars-065.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-065.webp"
+      }
+    },
+    {
+      "id": "pixel-066",
+      "filename": "pixel-avatars-066",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f89808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-066.png",
+        "preview": "preview/pixel-avatars-066.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-066.webp"
+      }
+    },
+    {
+      "id": "pixel-067",
+      "filename": "pixel-avatars-067",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84898"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-067.png",
+        "preview": "preview/pixel-avatars-067.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-067.webp"
+      }
+    },
+    {
+      "id": "pixel-068",
+      "filename": "pixel-avatars-068",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#18b8a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-068.png",
+        "preview": "preview/pixel-avatars-068.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-068.webp"
+      }
+    },
+    {
+      "id": "pixel-069",
+      "filename": "pixel-avatars-069",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#6868f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-069.png",
+        "preview": "preview/pixel-avatars-069.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-069.webp"
+      }
+    },
+    {
+      "id": "pixel-070",
+      "filename": "pixel-avatars-070",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e85808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-070.png",
+        "preview": "preview/pixel-avatars-070.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-070.webp"
+      }
+    },
+    {
+      "id": "pixel-071",
+      "filename": "pixel-avatars-071",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#28c858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-071.png",
+        "preview": "preview/pixel-avatars-071.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-071.webp"
+      }
+    },
+    {
+      "id": "pixel-072",
+      "filename": "pixel-avatars-072",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#781818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-072.png",
+        "preview": "preview/pixel-avatars-072.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-072.webp"
+      }
+    },
+    {
+      "id": "pixel-073",
+      "filename": "pixel-avatars-073",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08a8e8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-073.png",
+        "preview": "preview/pixel-avatars-073.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-073.webp"
+      }
+    },
+    {
+      "id": "pixel-074",
+      "filename": "pixel-avatars-074",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a818a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-074.png",
+        "preview": "preview/pixel-avatars-074.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-074.webp"
+      }
+    },
+    {
+      "id": "pixel-075",
+      "filename": "pixel-avatars-075",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#487808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-075.png",
+        "preview": "preview/pixel-avatars-075.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-075.webp"
+      }
+    },
+    {
+      "id": "pixel-076",
+      "filename": "pixel-avatars-076",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f83858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-076.png",
+        "preview": "preview/pixel-avatars-076.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-076.webp"
+      }
+    },
+    {
+      "id": "pixel-077",
+      "filename": "pixel-avatars-077",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#6828d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-077.png",
+        "preview": "preview/pixel-avatars-077.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-077.webp"
+      }
+    },
+    {
+      "id": "pixel-078",
+      "filename": "pixel-avatars-078",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e8b808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-078.png",
+        "preview": "preview/pixel-avatars-078.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-078.webp"
+      }
+    },
+    {
+      "id": "pixel-079",
+      "filename": "pixel-avatars-079",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b8d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-079.png",
+        "preview": "preview/pixel-avatars-079.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-079.webp"
+      }
+    },
+    {
+      "id": "pixel-080",
+      "filename": "pixel-avatars-080",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-080.png",
+        "preview": "preview/pixel-avatars-080.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-080.webp"
+      }
+    },
+    {
+      "id": "pixel-081",
+      "filename": "pixel-avatars-081",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#388878"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-081.png",
+        "preview": "preview/pixel-avatars-081.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-081.webp"
+      }
+    },
+    {
+      "id": "pixel-082",
+      "filename": "pixel-avatars-082",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84848"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-082.png",
+        "preview": "preview/pixel-avatars-082.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-082.webp"
+      }
+    },
+    {
+      "id": "pixel-083",
+      "filename": "pixel-avatars-083",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#3888f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-083.png",
+        "preview": "preview/pixel-avatars-083.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-083.webp"
+      }
+    },
+    {
+      "id": "pixel-084",
+      "filename": "pixel-avatars-084",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e84898"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-084.png",
+        "preview": "preview/pixel-avatars-084.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-084.webp"
+      }
+    },
+    {
+      "id": "pixel-085",
+      "filename": "pixel-avatars-085",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-085.png",
+        "preview": "preview/pixel-avatars-085.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-085.webp"
+      }
+    },
+    {
+      "id": "pixel-086",
+      "filename": "pixel-avatars-086",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#b85808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-086.png",
+        "preview": "preview/pixel-avatars-086.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-086.webp"
+      }
+    },
+    {
+      "id": "pixel-087",
+      "filename": "pixel-avatars-087",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#b81858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-087.png",
+        "preview": "preview/pixel-avatars-087.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-087.webp"
+      }
+    },
+    {
+      "id": "pixel-088",
+      "filename": "pixel-avatars-088",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#087868"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-088.png",
+        "preview": "preview/pixel-avatars-088.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-088.webp"
+      }
+    },
+    {
+      "id": "pixel-089",
+      "filename": "pixel-avatars-089",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#6868f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-089.png",
+        "preview": "preview/pixel-avatars-089.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-089.webp"
+      }
+    },
+    {
+      "id": "pixel-090",
+      "filename": "pixel-avatars-090",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f87818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-090.png",
+        "preview": "preview/pixel-avatars-090.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-090.webp"
+      }
+    },
+    {
+      "id": "pixel-091",
+      "filename": "pixel-avatars-091",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#187838"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-091.png",
+        "preview": "preview/pixel-avatars-091.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-091.webp"
+      }
+    },
+    {
+      "id": "pixel-092",
+      "filename": "pixel-avatars-092",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#781818"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-092.png",
+        "preview": "preview/pixel-avatars-092.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-092.webp"
+      }
+    },
+    {
+      "id": "pixel-093",
+      "filename": "pixel-avatars-093",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#0868a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-093.png",
+        "preview": "preview/pixel-avatars-093.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-093.webp"
+      }
+    },
+    {
+      "id": "pixel-094",
+      "filename": "pixel-avatars-094",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a818a8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-094.png",
+        "preview": "preview/pixel-avatars-094.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-094.webp"
+      }
+    },
+    {
+      "id": "pixel-095",
+      "filename": "pixel-avatars-095",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#487808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-095.png",
+        "preview": "preview/pixel-avatars-095.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-095.webp"
+      }
+    },
+    {
+      "id": "pixel-096",
+      "filename": "pixel-avatars-096",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#f83858"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-096.png",
+        "preview": "preview/pixel-avatars-096.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-096.webp"
+      }
+    },
+    {
+      "id": "pixel-097",
+      "filename": "pixel-avatars-097",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#a888f8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-097.png",
+        "preview": "preview/pixel-avatars-097.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-097.webp"
+      }
+    },
+    {
+      "id": "pixel-098",
+      "filename": "pixel-avatars-098",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#e8b808"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-098.png",
+        "preview": "preview/pixel-avatars-098.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-098.webp"
+      }
+    },
+    {
+      "id": "pixel-099",
+      "filename": "pixel-avatars-099",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#08b8d8"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-099.png",
+        "preview": "preview/pixel-avatars-099.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-099.webp"
+      }
+    },
+    {
+      "id": "pixel-100",
+      "filename": "pixel-avatars-100",
+      "tags": [
+        "pixel",
+        "mosaic",
+        "geometric"
+      ],
+      "dominant_colors": [
+        "#089888"
+      ],
+      "files": {
+        "4k": "4k/pixel-avatars-100.png",
+        "preview": "preview/pixel-avatars-100.jpg",
+        "thumbnail": "thumbnails/pixel-avatars-100.webp"
+      }
+    }
+  ]
+}
